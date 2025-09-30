@@ -1,0 +1,530 @@
+[
+  {
+    "id_modelo": 142532142,
+    "modelo": "BRC_R72M"
+  },
+  {
+    "id_modelo": 142532143,
+    "modelo": "BOC_W720"
+  },
+  {
+    "id_modelo": 142532144,
+    "modelo": "BOJ_066M"
+  },
+  {
+    "id_modelo": 142532145,
+    "modelo": "BGC_062M"
+  },
+  {
+    "id_modelo": 142532147,
+    "modelo": "BCA_061M"
+  },
+  {
+    "id_modelo": 142532146,
+    "modelo": "BMO_060M"
+  },
+  {
+    "id_modelo": 142532148,
+    "modelo": "BQO_R72M"
+  },
+  {
+    "id_modelo": 142532149,
+    "modelo": "BOJ_060M"
+  },
+  {
+    "id_modelo": 142532150,
+    "modelo": "BRM_C72M"
+  },
+  {
+    "id_modelo": 142532151,
+    "modelo": "BLU_F62M"
+  },
+  {
+    "id_modelo": 142532152,
+    "modelo": "BQO_D72M"
+  },
+  {
+    "id_modelo": 142532153,
+    "modelo": "BCA_N73M"
+  },
+  {
+    "id_modelo": 142532154,
+    "modelo": "BKM_073N"
+  },
+  {
+    "id_modelo": 142532155,
+    "modelo": "BED_062M"
+  },
+  {
+    "id_modelo": 142532156,
+    "modelo": "BEN_762M"
+  },
+  {
+    "id_modelo": 142532157,
+    "modelo": "BEU_S62M"
+  },
+  {
+    "id_modelo": 142532158,
+    "modelo": "BOC_5740"
+  },
+  {
+    "id_modelo": 142532160,
+    "modelo": "BKM_N73N"
+  },
+  {
+    "id_modelo": 142532159,
+    "modelo": "BKM_F73M"
+  },
+  {
+    "id_modelo": 142532162,
+    "modelo": "BKM_R73M"
+  },
+  {
+    "id_modelo": 142532161,
+    "modelo": "BOC_W740"
+  },
+  {
+    "id_modelo": 142532163,
+    "modelo": "BOC_5720"
+  },
+  {
+    "id_modelo": 142532164,
+    "modelo": "BRM_075M"
+  },
+  {
+    "id_modelo": 142532168,
+    "modelo": "BQS_N73M"
+  },
+  {
+    "id_modelo": 142532167,
+    "modelo": "BQS_073M"
+  },
+  {
+    "id_modelo": 142532165,
+    "modelo": "BRM_R72M"
+  },
+  {
+    "id_modelo": 142532166,
+    "modelo": "BRC_D72M"
+  },
+  {
+    "id_modelo": 142532170,
+    "modelo": "BQS_Z73M"
+  },
+  {
+    "id_modelo": 142532169,
+    "modelo": "BOC_B720"
+  },
+  {
+    "id_modelo": 142532171,
+    "modelo": "BQS_F73M"
+  },
+  {
+    "id_modelo": 142532173,
+    "modelo": "BCA_N61M"
+  },
+  {
+    "id_modelo": 142532174,
+    "modelo": "BQT_Z63M"
+  },
+  {
+    "id_modelo": 142532172,
+    "modelo": "BOC_N72M"
+  },
+  {
+    "id_modelo": 142532176,
+    "modelo": "BQT_N63M"
+  },
+  {
+    "id_modelo": 142532178,
+    "modelo": "BCH_N64M"
+  },
+  {
+    "id_modelo": 142532175,
+    "modelo": "BRM_072M"
+  },
+  {
+    "id_modelo": 142532179,
+    "modelo": "BQT_M63M"
+  },
+  {
+    "id_modelo": 142532177,
+    "modelo": "BBM_N72M"
+  },
+  {
+    "id_modelo": 142532180,
+    "modelo": "BQO_N72M"
+  },
+  {
+    "id_modelo": 142532183,
+    "modelo": "BRE_D75M"
+  },
+  {
+    "id_modelo": 142532182,
+    "modelo": "BCH_064M"
+  },
+  {
+    "id_modelo": 142532186,
+    "modelo": "BRE_C75M"
+  },
+  {
+    "id_modelo": 142532185,
+    "modelo": "BCA_B64M"
+  },
+  {
+    "id_modelo": 142532181,
+    "modelo": "BQO_F72M"
+  },
+  {
+    "id_modelo": 142532184,
+    "modelo": "BDP_271M"
+  },
+  {
+    "id_modelo": 142532187,
+    "modelo": "BRE_R75M"
+  },
+  {
+    "id_modelo": 142532188,
+    "modelo": "BRE_075M"
+  },
+  {
+    "id_modelo": 142532190,
+    "modelo": "BFCE060M"
+  },
+  {
+    "id_modelo": 142532189,
+    "modelo": "BDH_N72M"
+  },
+  {
+    "id_modelo": 142532192,
+    "modelo": "BRM_F72M"
+  },
+  {
+    "id_modelo": 142532191,
+    "modelo": "BGB_072M"
+  },
+  {
+    "id_modelo": 142532193,
+    "modelo": "BKM_N73M"
+  },
+  {
+    "id_modelo": 142532194,
+    "modelo": "BKM_R73N"
+  },
+  {
+    "id_modelo": 142532196,
+    "modelo": "NGA_Z41K"
+  },
+  {
+    "id_modelo": 142532195,
+    "modelo": "BKM_073M"
+  },
+  {
+    "id_modelo": 142532197,
+    "modelo": "NQA_D41K"
+  },
+  {
+    "id_modelo": 142532198,
+    "modelo": "NAC_N1BZ"
+  },
+  {
+    "id_modelo": 142532199,
+    "modelo": "BKM_D73N"
+  },
+  {
+    "id_modelo": 142532202,
+    "modelo": "BRM_N72M"
+  },
+  {
+    "id_modelo": 142532200,
+    "modelo": "BKM_D73M"
+  },
+  {
+    "id_modelo": 142532203,
+    "modelo": "BKM_F73N"
+  },
+  {
+    "id_modelo": 142532201,
+    "modelo": "BQS_D73M"
+  },
+  {
+    "id_modelo": 142532204,
+    "modelo": "NAC_N4HT"
+  },
+  {
+    "id_modelo": 142532205,
+    "modelo": "NQS_04XM"
+  },
+  {
+    "id_modelo": 142532206,
+    "modelo": "NAC_Z4HT"
+  },
+  {
+    "id_modelo": 142532208,
+    "modelo": "NHC_D31K"
+  },
+  {
+    "id_modelo": 142532207,
+    "modelo": "BBM_F72M"
+  },
+  {
+    "id_modelo": 142532209,
+    "modelo": "BQS_N41M"
+  },
+  {
+    "id_modelo": 142532213,
+    "modelo": "BQS_F41M"
+  },
+  {
+    "id_modelo": 142532210,
+    "modelo": "BDP_771M"
+  },
+  {
+    "id_modelo": 142532214,
+    "modelo": "ZZMK022K"
+  },
+  {
+    "id_modelo": 142532211,
+    "modelo": "BQS_R73M"
+  },
+  {
+    "id_modelo": 142532212,
+    "modelo": "BQT_D63M"
+  },
+  {
+    "id_modelo": 142532215,
+    "modelo": "BRM_F75M"
+  },
+  {
+    "id_modelo": 142532216,
+    "modelo": "ADI_D732"
+  },
+  {
+    "id_modelo": 142532217,
+    "modelo": "ZXY_Z911"
+  },
+  {
+    "id_modelo": 142532218,
+    "modelo": "ZZMKN22K"
+  },
+  {
+    "id_modelo": 142532219,
+    "modelo": "NQA_N41K"
+  },
+  {
+    "id_modelo": 142532221,
+    "modelo": "ZXY_N972"
+  },
+  {
+    "id_modelo": 142532220,
+    "modelo": "NBZ_N41K"
+  },
+  {
+    "id_modelo": 142532223,
+    "modelo": "ZXY_D949"
+  },
+  {
+    "id_modelo": 142532222,
+    "modelo": "NGA_N41K"
+  },
+  {
+    "id_modelo": 142532224,
+    "modelo": "ZXY_R949"
+  },
+  {
+    "id_modelo": 142532225,
+    "modelo": "NQA_041K"
+  },
+  {
+    "id_modelo": 142532227,
+    "modelo": "BQS_N24K"
+  },
+  {
+    "id_modelo": 142532226,
+    "modelo": "NQS_F4XM"
+  },
+  {
+    "id_modelo": 142532229,
+    "modelo": "BQS_D24K"
+  },
+  {
+    "id_modelo": 142532228,
+    "modelo": "NAC_01HT"
+  },
+  {
+    "id_modelo": 142532230,
+    "modelo": "NAC_Z1HT"
+  },
+  {
+    "id_modelo": 142532231,
+    "modelo": "NAC_N1HT"
+  },
+  {
+    "id_modelo": 142532232,
+    "modelo": "BQS_D41M"
+  },
+  {
+    "id_modelo": 142532233,
+    "modelo": "BCH_Z4BT"
+  },
+  {
+    "id_modelo": 142532234,
+    "modelo": "BCH_D4BT"
+  },
+  {
+    "id_modelo": 142532235,
+    "modelo": "BQR_N29V"
+  },
+  {
+    "id_modelo": 142532237,
+    "modelo": "BCH_D1BT"
+  },
+  {
+    "id_modelo": 142532236,
+    "modelo": "ZXY_N973"
+  },
+  {
+    "id_modelo": 142532238,
+    "modelo": "ZXY_9982"
+  },
+  {
+    "id_modelo": 142532240,
+    "modelo": "BQR_N28V"
+  },
+  {
+    "id_modelo": 142532239,
+    "modelo": "ZXY_Z912"
+  },
+  {
+    "id_modelo": 142532242,
+    "modelo": "ADI_D911"
+  },
+  {
+    "id_modelo": 142532241,
+    "modelo": "NAC_202K"
+  },
+  {
+    "id_modelo": 142532243,
+    "modelo": "BQR_F28V"
+  },
+  {
+    "id_modelo": 142532244,
+    "modelo": "BQR_N28R"
+  },
+  {
+    "id_modelo": 142532245,
+    "modelo": "BCH_Z1BT"
+  },
+  {
+    "id_modelo": 142532247,
+    "modelo": "BFC_080M"
+  },
+  {
+    "id_modelo": 142532248,
+    "modelo": "BQR_F29V"
+  },
+  {
+    "id_modelo": 142532246,
+    "modelo": "BQR_F28R"
+  },
+  {
+    "id_modelo": 142532249,
+    "modelo": "BCH_N4BT"
+  },
+  {
+    "id_modelo": 142532250,
+    "modelo": "BLU_F10M"
+  },
+  {
+    "id_modelo": 142532252,
+    "modelo": "BQR_N29R"
+  },
+  {
+    "id_modelo": 142532251,
+    "modelo": "BQR_F29R"
+  },
+  {
+    "id_modelo": 142532253,
+    "modelo": "BGA_Z10M"
+  },
+  {
+    "id_modelo": 142532254,
+    "modelo": "BLO_080M"
+  },
+  {
+    "id_modelo": 142532255,
+    "modelo": "BMO_080M"
+  },
+  {
+    "id_modelo": 142532258,
+    "modelo": "BOW_080M"
+  },
+  {
+    "id_modelo": 142532256,
+    "modelo": "BOJ_080M"
+  },
+  {
+    "id_modelo": 142532257,
+    "modelo": "BON_080D"
+  },
+  {
+    "id_modelo": 142532259,
+    "modelo": "BUT_080M"
+  },
+  {
+    "id_modelo": 142532260,
+    "modelo": "BLU_F80M"
+  },
+  {
+    "id_modelo": 142532261,
+    "modelo": "BOS_080D"
+  },
+  {
+    "id_modelo": 142532262,
+    "modelo": "BOC_N80M"
+  },
+  {
+    "id_modelo": 142532263,
+    "modelo": "BGA_N20M"
+  },
+  {
+    "id_modelo": 142532264,
+    "modelo": "NQS_041K"
+  },
+  {
+    "id_modelo": 142532266,
+    "modelo": "BLO_N20M"
+  },
+  {
+    "id_modelo": 142532265,
+    "modelo": "BGA_Z40M"
+  },
+  {
+    "id_modelo": 142532267,
+    "modelo": "NQS_N41K"
+  },
+  {
+    "id_modelo": 142532268,
+    "modelo": "BQS_N20M"
+  },
+  {
+    "id_modelo": 142532269,
+    "modelo": "BQS_D20M"
+  },
+  {
+    "id_modelo": 142532270,
+    "modelo": "ZXY_9918"
+  },
+  {
+    "id_modelo": 142532271,
+    "modelo": "ZXY_9912"
+  },
+  {
+    "id_modelo": 142532272,
+    "modelo": "ZZMK011O"
+  },
+  {
+    "id_modelo": 142532274,
+    "modelo": "ZZMKA11O"
+  }
+]

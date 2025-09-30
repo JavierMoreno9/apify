@@ -1,0 +1,10 @@
+node_modules/
+apify_storage/
+output/
+storage/
+*.log
+*.tmp
+*.sqlite
+.env
+.env.local
+.env.*.local

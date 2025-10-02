@@ -1,11 +1,675 @@
 [
   {
-    "id_modelo": 140733402,
-    "modelo": "3531B"
+    "id_modelo": 142570447,
+    "modelo": "2065B"
+  },
+  {
+    "id_modelo": 142570449,
+    "modelo": "2971B"
+  },
+  {
+    "id_modelo": 142570450,
+    "modelo": "3238B"
+  },
+  {
+    "id_modelo": 142570452,
+    "modelo": 3291
+  },
+  {
+    "id_modelo": 142570453,
+    "modelo": 3292
+  },
+  {
+    "id_modelo": 142570454,
+    "modelo": 3293
+  },
+  {
+    "id_modelo": 142570455,
+    "modelo": 3294
+  },
+  {
+    "id_modelo": 142570456,
+    "modelo": 3295
+  },
+  {
+    "id_modelo": 142570457,
+    "modelo": 3296
+  },
+  {
+    "id_modelo": 142570458,
+    "modelo": "3515C"
+  },
+  {
+    "id_modelo": 142570459,
+    "modelo": "3757B"
+  },
+  {
+    "id_modelo": 142570461,
+    "modelo": 3873
+  },
+  {
+    "id_modelo": 142570462,
+    "modelo": 3874
+  },
+  {
+    "id_modelo": 142570464,
+    "modelo": 4072
+  },
+  {
+    "id_modelo": 142570465,
+    "modelo": 4073
+  },
+  {
+    "id_modelo": 142570466,
+    "modelo": 4074
+  },
+  {
+    "id_modelo": 142570468,
+    "modelo": 4194
+  },
+  {
+    "id_modelo": 142570469,
+    "modelo": 4264
+  },
+  {
+    "id_modelo": 142570470,
+    "modelo": "4265B"
+  },
+  {
+    "id_modelo": 142570471,
+    "modelo": 4266
+  },
+  {
+    "id_modelo": 142570472,
+    "modelo": 4267
+  },
+  {
+    "id_modelo": 142570473,
+    "modelo": 4292
+  },
+  {
+    "id_modelo": 142570474,
+    "modelo": 4293
+  },
+  {
+    "id_modelo": 142570476,
+    "modelo": 4331
+  },
+  {
+    "id_modelo": 142570477,
+    "modelo": 4333
+  },
+  {
+    "id_modelo": 142570480,
+    "modelo": 4488
+  },
+  {
+    "id_modelo": 142570481,
+    "modelo": 4490
+  },
+  {
+    "id_modelo": 142570482,
+    "modelo": 4552
+  },
+  {
+    "id_modelo": 142570484,
+    "modelo": 4577
+  },
+  {
+    "id_modelo": 142570485,
+    "modelo": 4670
+  },
+  {
+    "id_modelo": 142570486,
+    "modelo": 4788
+  },
+  {
+    "id_modelo": 142570487,
+    "modelo": 4789
+  },
+  {
+    "id_modelo": 142570488,
+    "modelo": 4790
+  },
+  {
+    "id_modelo": 142570489,
+    "modelo": 4791
+  },
+  {
+    "id_modelo": 142570492,
+    "modelo": 4831
+  },
+  {
+    "id_modelo": 142570493,
+    "modelo": 4871
+  },
+  {
+    "id_modelo": 142570494,
+    "modelo": 4872
+  },
+  {
+    "id_modelo": 142570495,
+    "modelo": 4873
+  },
+  {
+    "id_modelo": 142570496,
+    "modelo": 4899
+  },
+  {
+    "id_modelo": 142570499,
+    "modelo": 4929
+  },
+  {
+    "id_modelo": 142570501,
+    "modelo": 4966
+  },
+  {
+    "id_modelo": 142570502,
+    "modelo": 4970
+  },
+  {
+    "id_modelo": 142570503,
+    "modelo": 4971
+  },
+  {
+    "id_modelo": 142570504,
+    "modelo": 4974
+  },
+  {
+    "id_modelo": 142570506,
+    "modelo": 4984
+  },
+  {
+    "id_modelo": 142570507,
+    "modelo": 5062
+  },
+  {
+    "id_modelo": 142570509,
+    "modelo": 5074
+  },
+  {
+    "id_modelo": 142570513,
+    "modelo": 5079
+  },
+  {
+    "id_modelo": 142570514,
+    "modelo": 5088
+  },
+  {
+    "id_modelo": 142570515,
+    "modelo": 5113
+  },
+  {
+    "id_modelo": 142570517,
+    "modelo": 5316
+  },
+  {
+    "id_modelo": 142570518,
+    "modelo": 5317
+  },
+  {
+    "id_modelo": 142570522,
+    "modelo": 5595
+  },
+  {
+    "id_modelo": 142575448,
+    "modelo": "2832B"
+  },
+  {
+    "id_modelo": 142575451,
+    "modelo": "3028C"
+  },
+  {
+    "id_modelo": 142575452,
+    "modelo": 3041
+  },
+  {
+    "id_modelo": 142575453,
+    "modelo": "3042B"
+  },
+  {
+    "id_modelo": 142575455,
+    "modelo": 3588
+  },
+  {
+    "id_modelo": 142575456,
+    "modelo": 4107
+  },
+  {
+    "id_modelo": 142575458,
+    "modelo": 4225
+  },
+  {
+    "id_modelo": 142575459,
+    "modelo": 4226
+  },
+  {
+    "id_modelo": 142575460,
+    "modelo": 4582
+  },
+  {
+    "id_modelo": 142575462,
+    "modelo": 4583
+  },
+  {
+    "id_modelo": 142575463,
+    "modelo": 4228
+  },
+  {
+    "id_modelo": 142575464,
+    "modelo": "4712B"
+  },
+  {
+    "id_modelo": 142575465,
+    "modelo": 4740
+  },
+  {
+    "id_modelo": 142575466,
+    "modelo": 4741
+  },
+  {
+    "id_modelo": 142575467,
+    "modelo": 4742
+  },
+  {
+    "id_modelo": 142575468,
+    "modelo": 4743
+  },
+  {
+    "id_modelo": 142575469,
+    "modelo": 4794
+  },
+  {
+    "id_modelo": 142575470,
+    "modelo": 4795
+  },
+  {
+    "id_modelo": 142575471,
+    "modelo": 4989
+  },
+  {
+    "id_modelo": 142575473,
+    "modelo": 5214
+  },
+  {
+    "id_modelo": 142575474,
+    "modelo": 5086
+  },
+  {
+    "id_modelo": 142575477,
+    "modelo": 5225
+  },
+  {
+    "id_modelo": 142575478,
+    "modelo": 5391
+  },
+  {
+    "id_modelo": 142575480,
+    "modelo": 5392
+  },
+  {
+    "id_modelo": 142575491,
+    "modelo": "HTS2756B"
+  },
+  {
+    "id_modelo": 142575509,
+    "modelo": "LP-E6"
+  },
+  {
+    "id_modelo": 142575511,
+    "modelo": "M0.8-38T"
+  },
+  {
+    "id_modelo": 142575519,
+    "modelo": "PAC2456B"
+  },
+  {
+    "id_modelo": 142575525,
+    "modelo": "NP-W235"
+  },
+  {
+    "id_modelo": 142575534,
+    "modelo": "SR-RG2"
+  },
+  {
+    "id_modelo": 142580840,
+    "modelo": "3010C"
+  },
+  {
+    "id_modelo": 142580841,
+    "modelo": "3234B"
+  },
+  {
+    "id_modelo": 142580843,
+    "modelo": 3410
+  },
+  {
+    "id_modelo": 142580844,
+    "modelo": 3708
+  },
+  {
+    "id_modelo": 142580845,
+    "modelo": 3710
+  },
+  {
+    "id_modelo": 142580846,
+    "modelo": 3808
+  },
+  {
+    "id_modelo": 142580847,
+    "modelo": 3822
+  },
+  {
+    "id_modelo": 142580849,
+    "modelo": "3830C"
+  },
+  {
+    "id_modelo": 142580851,
+    "modelo": 3864
+  },
+  {
+    "id_modelo": 142580852,
+    "modelo": 3899
+  },
+  {
+    "id_modelo": 142580853,
+    "modelo": 3927
+  },
+  {
+    "id_modelo": 142580854,
+    "modelo": 3941
+  },
+  {
+    "id_modelo": 142580856,
+    "modelo": "4055AC"
+  },
+  {
+    "id_modelo": 142580857,
+    "modelo": 4121
+  },
+  {
+    "id_modelo": 142580858,
+    "modelo": 4124
+  },
+  {
+    "id_modelo": 142580859,
+    "modelo": 4184
+  },
+  {
+    "id_modelo": 142580860,
+    "modelo": 4186
+  },
+  {
+    "id_modelo": 142580862,
+    "modelo": 4213
+  },
+  {
+    "id_modelo": 142580863,
+    "modelo": 4215
+  },
+  {
+    "id_modelo": 142580864,
+    "modelo": 4216
+  },
+  {
+    "id_modelo": 142580865,
+    "modelo": 4217
+  },
+  {
+    "id_modelo": 142580866,
+    "modelo": 4218
+  },
+  {
+    "id_modelo": 142580867,
+    "modelo": 4221
   },
   {
     "id_modelo": 142580870,
     "modelo": "4296B"
+  },
+  {
+    "id_modelo": 142580871,
+    "modelo": 4308
+  },
+  {
+    "id_modelo": 142580874,
+    "modelo": 4364
+  },
+  {
+    "id_modelo": 142580875,
+    "modelo": 4367
+  },
+  {
+    "id_modelo": 142580877,
+    "modelo": 4373
+  },
+  {
+    "id_modelo": 142580879,
+    "modelo": "4407B"
+  },
+  {
+    "id_modelo": 142580880,
+    "modelo": 4411
+  },
+  {
+    "id_modelo": 142580881,
+    "modelo": 4412
+  },
+  {
+    "id_modelo": 142580883,
+    "modelo": 4454
+  },
+  {
+    "id_modelo": 142580884,
+    "modelo": 4468
+  },
+  {
+    "id_modelo": 142580886,
+    "modelo": 4485
+  },
+  {
+    "id_modelo": 142580887,
+    "modelo": 4491
+  },
+  {
+    "id_modelo": 142580888,
+    "modelo": "4510B"
+  },
+  {
+    "id_modelo": 142580889,
+    "modelo": 4520
+  },
+  {
+    "id_modelo": 142580890,
+    "modelo": 4522
+  },
+  {
+    "id_modelo": 142580891,
+    "modelo": 4538
+  },
+  {
+    "id_modelo": 142580893,
+    "modelo": 4551
+  },
+  {
+    "id_modelo": 142580894,
+    "modelo": 4558
+  },
+  {
+    "id_modelo": 142580895,
+    "modelo": 4565
+  },
+  {
+    "id_modelo": 142580897,
+    "modelo": 4571
+  },
+  {
+    "id_modelo": 142580898,
+    "modelo": 4574
+  },
+  {
+    "id_modelo": 142580905,
+    "modelo": 4601
+  },
+  {
+    "id_modelo": 142580906,
+    "modelo": 4649
+  },
+  {
+    "id_modelo": 142580907,
+    "modelo": 4650
+  },
+  {
+    "id_modelo": 142580908,
+    "modelo": 4652
+  },
+  {
+    "id_modelo": 142580909,
+    "modelo": 4662
+  },
+  {
+    "id_modelo": 142580911,
+    "modelo": 4715
+  },
+  {
+    "id_modelo": 142580912,
+    "modelo": 4724
+  },
+  {
+    "id_modelo": 142580913,
+    "modelo": 4725
+  },
+  {
+    "id_modelo": 142580914,
+    "modelo": 4745
+  },
+  {
+    "id_modelo": 142580915,
+    "modelo": 4746
+  },
+  {
+    "id_modelo": 142580917,
+    "modelo": 4771
+  },
+  {
+    "id_modelo": 142580919,
+    "modelo": 4775
+  },
+  {
+    "id_modelo": 142580920,
+    "modelo": 4776
+  },
+  {
+    "id_modelo": 142580921,
+    "modelo": 4781
+  },
+  {
+    "id_modelo": 142580923,
+    "modelo": 4799
+  },
+  {
+    "id_modelo": 142580926,
+    "modelo": "4851B"
+  },
+  {
+    "id_modelo": 142580927,
+    "modelo": 4867
+  },
+  {
+    "id_modelo": 142580929,
+    "modelo": 4870
+  },
+  {
+    "id_modelo": 142580932,
+    "modelo": 4939
+  },
+  {
+    "id_modelo": 142580933,
+    "modelo": 4947
+  },
+  {
+    "id_modelo": 142580935,
+    "modelo": 4976
+  },
+  {
+    "id_modelo": 142580936,
+    "modelo": 4987
+  },
+  {
+    "id_modelo": 142580937,
+    "modelo": 4988
+  },
+  {
+    "id_modelo": 142580942,
+    "modelo": 5011
+  },
+  {
+    "id_modelo": 142580943,
+    "modelo": 5015
+  },
+  {
+    "id_modelo": 142580944,
+    "modelo": 5029
+  },
+  {
+    "id_modelo": 142580945,
+    "modelo": 5046
+  },
+  {
+    "id_modelo": 142580946,
+    "modelo": 5047
+  },
+  {
+    "id_modelo": 142580947,
+    "modelo": 5048
+  },
+  {
+    "id_modelo": 142580948,
+    "modelo": 5049
+  },
+  {
+    "id_modelo": 142580951,
+    "modelo": 5163
+  },
+  {
+    "id_modelo": 142580952,
+    "modelo": 5169
+  },
+  {
+    "id_modelo": 142580953,
+    "modelo": 5170
+  },
+  {
+    "id_modelo": 142580956,
+    "modelo": 5249
+  },
+  {
+    "id_modelo": 142580964,
+    "modelo": 5409
+  },
+  {
+    "id_modelo": 142580965,
+    "modelo": 5412
+  },
+  {
+    "id_modelo": 142580968,
+    "modelo": 5589
+  },
+  {
+    "id_modelo": 142580969,
+    "modelo": "AAK2213D"
+  },
+  {
+    "id_modelo": 142580970,
+    "modelo": "AAK2495"
+  },
+  {
+    "id_modelo": 142580987,
+    "modelo": "MD4360"
+  },
+  {
+    "id_modelo": 142580989,
+    "modelo": "MD4362"
   },
   {
     "id_modelo": 142593210,
@@ -368,6 +1032,10 @@
     "modelo": 4278
   },
   {
+    "id_modelo": 142593350,
+    "modelo": 4288
+  },
+  {
     "id_modelo": 142593351,
     "modelo": 4289
   },
@@ -524,10 +1192,6 @@
     "modelo": 4603
   },
   {
-    "id_modelo": 142593409,
-    "modelo": 4600
-  },
-  {
     "id_modelo": 142593412,
     "modelo": 4621
   },
@@ -561,10 +1225,6 @@
   },
   {
     "id_modelo": 142593422,
-    "modelo": 4656
-  },
-  {
-    "id_modelo": 142593423,
     "modelo": 4656
   },
   {
@@ -1068,10 +1728,6 @@
     "modelo": "BUN2484B"
   },
   {
-    "id_modelo": 142593612,
-    "modelo": "Camera"
-  },
-  {
     "id_modelo": 142593613,
     "modelo": "BSL2681"
   },
@@ -1118,10 +1774,6 @@
   {
     "id_modelo": 142593630,
     "modelo": "MD5059"
-  },
-  {
-    "id_modelo": 142593632,
-    "modelo": "Multifunctional"
   },
   {
     "id_modelo": 142593635,

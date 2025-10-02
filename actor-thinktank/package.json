@@ -1,11 +1,13 @@
 {
-	"name": "actor-hepcobecker",
+	"name": "actor-motocard",
 	"version": "0.0.1",
 	"type": "module",
 	"description": "This is an example of an Apify Actor.",
 	"dependencies": {
 		"apify": "^3.4.2",
 		"crawlee": "^3.13.8",
+		"fs": "^0.0.1-security",
+		"node-fetch": "^3.3.2",
 		"papaparse": "^5.5.3",
 		"playwright": "^1.54.1"
 	},

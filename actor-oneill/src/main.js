@@ -34,8 +34,8 @@ async function start() {
     },
 
     async requestHandler({ page, request, log }) {
-      const { ean, modelo } = request.userData;
-      log.info(`🔍 Buscando modelo: "${modelo}" (EAN: ${ean})`);
+      const { id_modelo, modelo } = request.userData;
+      log.info(`🔍 Buscando modelo: "${modelo}" (ID_MODELO: ${id_modelo})`);
 
       await page.waitForTimeout(1000);
 
@@ -71,20 +71,23 @@ async function start() {
       await page.waitForSelector('img.lazyloaded', { timeout: 15000 }).catch(() => {});
 
     const allMainImages = await page.$$eval(
-      'img.lazyloaded',
+      'div.product-media-wrapper img',
       imgs => imgs.map(img => img.src).filter(Boolean)
     );
 
       // Datos del producto
   const title = await page.$eval('h1.product__title', el => el.innerText.trim()).catch(() => '');
   const price = await page.$eval('div.click-on-stars', el => el.innerText.trim()).catch(() => '');
-  const description = await page.$$eval('div.accordion__content', els => els[0] ? els[0].innerText.trim() : '').catch(() => '');
-  const desc = await page.$$eval('div.tabs-content-pane', els => els[1] ? els[1].innerHTML.trim() : '').catch(() => '');
-  const desc2 = await page.$$eval('div.tabs-content-pane', els => els[4] ? els[4].innerHTML.trim() : '').catch(() => '');
-
+  const description = await page.$$eval('details', els => els[0] ? els[0].innerHTML.trim() : '').catch(() => '');
+  const desc = await page.$$eval('details', els => els[1] ? els[1].innerHTML.trim() : '').catch(() => '');
+  const desc2 = await page.$$eval('details', els => els[2] ? els[2].innerHTML.trim() : '').catch(() => '');
+  const desc3 = await page.$$eval('details', els => els[3] ? els[3].innerHTML.trim() : '').catch(() => '');
+  const desc4 = await page.$$eval('details', els => els[4] ? els[4].innerHTML.trim() : '').catch(() => '');
+  const desc5 = await page.$$eval('details', els => els[5] ? els[5].innerHTML.trim() : '').catch(() => '');
+  const desc6 = await page.$$eval('details', els => els[6] ? els[6].innerHTML.trim() : '').catch(() => '');
   // Ahora construimos el objeto
   const data = {
-    ean,
+    id_modelo,
     modelo,
     url: firstProductLink,
     title,
@@ -94,10 +97,14 @@ async function start() {
     description,
     desc,
     desc2,
+    desc3,
+    desc4,
+    desc5,
+    desc6
   };
 
-      // Guardar en un archivo separado por EAN
-      const outputPath = path.join(OUTPUT_DIR, `${ean}.json`);
+      // Guardar en un archivo separado por id_modelo
+      const outputPath = path.join(OUTPUT_DIR, `${id_modelo}.json`);
       fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf8');
 
       log.info(`💾 Guardado en: ${outputPath}`);
@@ -109,7 +116,7 @@ async function start() {
   // Generar URLs a partir del JSON cargado
   const startUrls = queries.map(producto => ({
     url: `https://eu.oneill.com/search?q=${encodeURIComponent(producto.modelo)}`,
-    userData: { ean: producto.ean, modelo: producto.modelo },
+    userData: { id_modelo: producto.id_modelo, modelo: producto.modelo },
   }));
 
   await crawler.run(startUrls);

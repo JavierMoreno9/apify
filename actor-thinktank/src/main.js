@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs, { link } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { PlaywrightCrawler } from 'crawlee';
@@ -35,7 +35,7 @@ async function start() {
 
     async requestHandler({ page, request, log }) {
       const { id_modelo, modelo } = request.userData;
-      log.info(`🔍 Buscando modelo: "${modelo}" (ID_MODELO: ${id_modelo})`);
+      log.info(`🔍 Buscando modelo: "${modelo}" (id_modelo: ${id_modelo})`);
 
       await page.waitForTimeout(1000);
 
@@ -54,13 +54,13 @@ async function start() {
 
       // Esperar a que aparezcan resultados
       await page.waitForSelector(
-        'div.products a.product-thumbnail',
+        'div.section.panel.panel-default a',
         { timeout: 15000 }
       );
 
       // Obtener href del primer product link
       const firstProductLink = await page.$eval(
-        'div.products a.product-thumbnail',
+        'div.section.panel.panel-default a',
         el => el.href
       );
 
@@ -68,34 +68,46 @@ async function start() {
 
       // Navegar al producto
       await page.goto(firstProductLink, { waitUntil: 'domcontentloaded' });
-      await page.waitForSelector('img.lazyloaded', { timeout: 15000 }).catch(() => {});
+      await page.waitForSelector('div.pinfo.row img', { timeout: 15000 }).catch(() => {});
 
     const allMainImages = await page.$$eval(
-      "img.js-qv-product-cover",
+      'div.pinfo.row img',
       imgs => imgs.map(img => img.src).filter(Boolean)
     );
 
+    /*const video = await page.$eval(
+      'div.videoWrapper iframe',
+      links => links.map(link => link.src).filter(Boolean)
+    );*/
+
+    /*const allDesc = await page.$$eval(
+      'span.leading-snug.block',
+      descs => descs.map(desc => desc.innerText).filter(Boolean).join("|")
+    );*/
+
       // Datos del producto
-  const title = await page.$eval('h1.h1', el => el.innerText.trim()).catch(() => '');
-  const price = await page.$eval("span[itemprop='price']", el => el.innerHTML.trim()).catch(() => '');
-  const referenciaWeb= await page.$eval("dd[itemprop='sku']", el => el.innerText.trim()).catch(() => '');
-  const description = await page.$eval('div.new-nav-item div.product-description',el => el.innerText.trim()).catch(() => '');
-  const desc = await page.$eval('section.product-features', el => el.innerText.trim()).catch(() => '');
-  const desc2 = await page.$eval('div.product-description-short', el => el.innerText.trim()).catch(() => '');
+  const title = await page.$eval('h1.title', el => el.innerText.trim()).catch(() => '');
+  const price = await page.$eval('span.price-tag', el => el.innerText.trim()).catch(() => '');
+  const description = await page.$eval('#specifications-collapse', el => el.innerText.trim()).catch(() => '');
+  const desc = await page.$eval('#description-collapse', el => el.innerText.trim()).catch(() => '');
+  const referenciaWeb = await page.$$eval('p.product-model.float-sm-left span.badge.badge-lighter', el => el.innerText.trim()).catch(() => '');
+  //const ean = await page.$$eval('div.sku-info span.value', els => els[1] ? els[1].innerText.trim() : '').catch(() => '');
+  //const desc2 = await page.$$eval('table.min-w-full.bg-white.border-gray-300', els => (els[2] ? els[2].innerHTML.trim() : ""));
 
   // Ahora construimos el objeto
   const data = {
     id_modelo,
     modelo,
+    //ean,
     referenciaWeb,
     url: firstProductLink,
     title,
     price,
     mainImage: allMainImages[0] || '',
     allMainImages, // <-- todas las imágenes lazyloaded
-    description,
     desc,
-    desc2,
+    description,
+    //video
   };
 
       // Guardar en un archivo separado por id_modelo
@@ -110,7 +122,7 @@ async function start() {
 
   // Generar URLs a partir del JSON cargado
   const startUrls = queries.map(producto => ({
-    url: `https://www.hepco-becker.es/buscar?controller=search&s=${encodeURIComponent(producto.modelo)}`,
+    url: `https://thinktankphoto.de/de/search?page=search&page_action=query&desc=&sdesc=&keywords=${encodeURIComponent(producto.modelo)}`,
     userData: { id_modelo: producto.id_modelo, modelo: producto.modelo },
   }));
 

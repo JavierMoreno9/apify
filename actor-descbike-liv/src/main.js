@@ -35,7 +35,7 @@ async function start() {
 
     async requestHandler({ page, request, log }) {
       const { id_modelo, modelo } = request.userData;
-      log.info(`🔍 Buscando modelo: "${modelo}" (id_modelo: ${id_modelo})`);
+      log.info(`🔍 Buscando modelo: "${modelo}" (ID_MODELO: ${id_modelo})`);
 
       await page.waitForTimeout(1000);
 
@@ -54,13 +54,13 @@ async function start() {
 
       // Esperar a que aparezcan resultados
       await page.waitForSelector(
-        'div.product__list--wrapper a.product__list--thumb',
+        'div.ns-product-grid a.product-link',
         { timeout: 15000 }
       );
 
       // Obtener href del primer product link
       const firstProductLink = await page.$eval(
-        'div.product__list--wrapper a.product__list--thumb',
+        'div.ns-product-grid a.product-link',
         el => el.href
       );
 
@@ -68,35 +68,39 @@ async function start() {
 
       // Navegar al producto
       await page.goto(firstProductLink, { waitUntil: 'domcontentloaded' });
-      await page.waitForSelector('div.image-gallery__image img', { timeout: 15000 }).catch(() => {});
+      await page.waitForSelector('img.lazyloaded', { timeout: 15000 }).catch(() => {});
 
     const allMainImages = await page.$$eval(
-      'div.image-gallery__image img',
+      'div.product-media-wrapper img',
       imgs => imgs.map(img => img.src).filter(Boolean)
     );
-    const description = await page.$$eval(
-      'div.card',
-      els => els.map(el => el.innerHTML.trim()).join('|')
-    ).catch(() => '');
 
       // Datos del producto
-  const title = await page.$eval('h1.name', el => el.innerText.trim()).catch(() => '');
-  const price = await page.$eval("div.card", el => el.innerText.trim()).catch(() => '');
-  //const description = await page.$$eval('div.accordion', els => els[1] ? els[1].innerHTML.trim() : '');
-  const referenciaWeb = await page.$$eval("div.supplier p.inline", els => els[1] ? els[1].innerText.trim() : '');
-
-
+  const title = await page.$eval('h1.product__title', el => el.innerText.trim()).catch(() => '');
+  const price = await page.$eval('div.click-on-stars', el => el.innerText.trim()).catch(() => '');
+  const description = await page.$$eval('details', els => els[0] ? els[0].innerHTML.trim() : '').catch(() => '');
+  const desc = await page.$$eval('details', els => els[1] ? els[1].innerHTML.trim() : '').catch(() => '');
+  const desc2 = await page.$$eval('details', els => els[2] ? els[2].innerHTML.trim() : '').catch(() => '');
+  const desc3 = await page.$$eval('details', els => els[3] ? els[3].innerHTML.trim() : '').catch(() => '');
+  const desc4 = await page.$$eval('details', els => els[4] ? els[4].innerHTML.trim() : '').catch(() => '');
+  const desc5 = await page.$$eval('details', els => els[5] ? els[5].innerHTML.trim() : '').catch(() => '');
+  const desc6 = await page.$$eval('details', els => els[6] ? els[6].innerHTML.trim() : '').catch(() => '');
   // Ahora construimos el objeto
   const data = {
     id_modelo,
-    referenciaWeb,
     modelo,
     url: firstProductLink,
     title,
     price,
     mainImage: allMainImages[0] || '',
-    allMainImages, // <-- todas las imágenes
-    description
+    allMainImages, // <-- todas las imágenes lazyloaded
+    description,
+    desc,
+    desc2,
+    desc3,
+    desc4,
+    desc5,
+    desc6
   };
 
       // Guardar en un archivo separado por id_modelo
@@ -111,7 +115,7 @@ async function start() {
 
   // Generar URLs a partir del JSON cargado
   const startUrls = queries.map(producto => ({
-    url: `https://www.mybihr.com/es/es/search?text=${encodeURIComponent(producto.modelo)}`,
+    url: `https://eu.oneill.com/search?q=${encodeURIComponent(producto.modelo)}`,
     userData: { id_modelo: producto.id_modelo, modelo: producto.modelo },
   }));
 

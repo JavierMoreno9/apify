@@ -1,31 +1,271 @@
 [
   {
-    "id_modelo": 142597839,
-    "modelo": 55102042
+    "id_modelo": 142599095,
+    "modelo": "OO7046-G3"
   },
   {
-    "id_modelo": 142600514,
-    "modelo": "VLG-1859D3-DM"
+    "id_modelo": 142599106,
+    "modelo": "FOA406490-02E-XL"
   },
   {
-    "id_modelo": 142600515,
-    "modelo": "VL-8033E"
+    "id_modelo": 142599121,
+    "modelo": "OO7029-88"
   },
   {
-    "id_modelo": 142600516,
-    "modelo": "VLG-ER07"
+    "id_modelo": 142599122,
+    "modelo": "OO7029-87"
   },
   {
-    "id_modelo": 142600519,
-    "modelo": "VL-6450"
+    "id_modelo": 142599123,
+    "modelo": "OO7115-57"
+  },
+  {
+    "id_modelo": 142599126,
+    "modelo": "FOA404451-02E-L"
+  },
+  {
+    "id_modelo": 142599127,
+    "modelo": "FOA404451-6AC-S"
+  },
+  {
+    "id_modelo": 142599128,
+    "modelo": "FOA404451-80U-XL"
+  },
+  {
+    "id_modelo": 142402158,
+    "modelo": "TLGAAIRMMBKYL"
+  },
+  {
+    "id_modelo": 142402162,
+    "modelo": "TLGAAIRMWHIRD"
+  },
+  {
+    "id_modelo": 142402168,
+    "modelo": "TLGAAIRMBKMU"
+  },
+  {
+    "id_modelo": 142507047,
+    "modelo": "230151-BLK-S"
+  },
+  {
+    "id_modelo": 142507056,
+    "modelo": "230336-BLK-2XL"
+  },
+  {
+    "id_modelo": 142507059,
+    "modelo": "230565-YEL-S"
+  },
+  {
+    "id_modelo": 142507060,
+    "modelo": "230142-BLK-S"
+  },
+  {
+    "id_modelo": 142507061,
+    "modelo": "230154-BLU-S"
+  },
+  {
+    "id_modelo": 142507062,
+    "modelo": "230154-GRY-S"
+  },
+  {
+    "id_modelo": 142150569,
+    "modelo": "2R5I1050"
+  },
+  {
+    "id_modelo": 142150620,
+    "modelo": "1R862017"
+  },
+  {
+    "id_modelo": 142598786,
+    "modelo": "2R920029"
+  },
+  {
+    "id_modelo": 142599674,
+    "modelo": "103435BLU-S"
+  },
+  {
+    "id_modelo": 142597921,
+    "modelo": "R-BEW35"
+  },
+  {
+    "id_modelo": 142597938,
+    "modelo": "B-026"
+  },
+  {
+    "id_modelo": 142517807,
+    "modelo": 1083810002
+  },
+  {
+    "id_modelo": 142517817,
+    "modelo": 1058049
+  },
+  {
+    "id_modelo": 142517883,
+    "modelo": 1058047
+  },
+  {
+    "id_modelo": 142600541,
+    "modelo": "PT11755"
+  },
+  {
+    "id_modelo": 141671350,
+    "modelo": 55025712
+  },
+  {
+    "id_modelo": 142042531,
+    "modelo": "177-0380-02"
+  },
+  {
+    "id_modelo": 142042532,
+    "modelo": "177-0379-05"
+  },
+  {
+    "id_modelo": 142042533,
+    "modelo": "177-0381-02"
+  },
+  {
+    "id_modelo": 142042535,
+    "modelo": "137-0388-03"
+  },
+  {
+    "id_modelo": 142231809,
+    "modelo": "177-0369-04"
+  },
+  {
+    "id_modelo": 142231810,
+    "modelo": "184-0345-04"
+  },
+  {
+    "id_modelo": 142231811,
+    "modelo": "184-0343-03"
+  },
+  {
+    "id_modelo": 142231812,
+    "modelo": "184-0344-04"
+  },
+  {
+    "id_modelo": 142231813,
+    "modelo": "184-0346-03"
+  },
+  {
+    "id_modelo": 142597637,
+    "modelo": 55082365
+  },
+  {
+    "id_modelo": 142074005,
+    "modelo": "ASC-64"
+  },
+  {
+    "id_modelo": 142074008,
+    "modelo": "ASSB-02"
+  },
+  {
+    "id_modelo": 142074011,
+    "modelo": "ASSB-05"
+  },
+  {
+    "id_modelo": 142109384,
+    "modelo": "ASWS-206-OR"
+  },
+  {
+    "id_modelo": 142109510,
+    "modelo": "JY-HWSA/IBE3"
+  },
+  {
+    "id_modelo": 142109515,
+    "modelo": "SS-374-M530R"
+  },
+  {
+    "id_modelo": 142109524,
+    "modelo": "JY-HWSA/IBE14"
+  },
+  {
+    "id_modelo": 142109616,
+    "modelo": "ST-2068-LED"
+  },
+  {
+    "id_modelo": 142109668,
+    "modelo": "ST-6147"
+  },
+  {
+    "id_modelo": 142109671,
+    "modelo": "ST-6189"
+  },
+  {
+    "id_modelo": 142330188,
+    "modelo": "JOG-CP"
+  },
+  {
+    "id_modelo": 142330193,
+    "modelo": "MC7-STEEL-CHROME-774"
+  },
+  {
+    "id_modelo": 142330196,
+    "modelo": "MC7-STEEL-BLACK-774"
+  },
+  {
+    "id_modelo": 142425708,
+    "modelo": 1058163
+  },
+  {
+    "id_modelo": 142425736,
+    "modelo": 1058649
+  },
+  {
+    "id_modelo": 142425766,
+    "modelo": 1058115
+  },
+  {
+    "id_modelo": 142425784,
+    "modelo": 1058816
+  },
+  {
+    "id_modelo": 142425805,
+    "modelo": 1063942
+  },
+  {
+    "id_modelo": 142568822,
+    "modelo": 1057992
+  },
+  {
+    "id_modelo": 142568823,
+    "modelo": 1058123
+  },
+  {
+    "id_modelo": 142568825,
+    "modelo": 1058145
+  },
+  {
+    "id_modelo": 142568826,
+    "modelo": 1058170
+  },
+  {
+    "id_modelo": 142568829,
+    "modelo": 1058205
+  },
+  {
+    "id_modelo": 142568838,
+    "modelo": 1059440
+  },
+  {
+    "id_modelo": 142568839,
+    "modelo": 1059542
+  },
+  {
+    "id_modelo": 142568843,
+    "modelo": 1083311001
+  },
+  {
+    "id_modelo": 142568846,
+    "modelo": 1083317001
+  },
+  {
+    "id_modelo": 142568850,
+    "modelo": 1112592
   },
   {
     "id_modelo": 142600549,
     "modelo": "ST-01236-1-LED"
-  },
-  {
-    "id_modelo": 142600551,
-    "modelo": "01-420"
   },
   {
     "id_modelo": 142600552,
@@ -44,14 +284,6 @@
     "modelo": 48201
   },
   {
-    "id_modelo": 142600562,
-    "modelo": "578-000-24"
-  },
-  {
-    "id_modelo": 142600563,
-    "modelo": "TY-201-L"
-  },
-  {
     "id_modelo": 142600564,
     "modelo": 351
   },
@@ -68,44 +300,8 @@
     "modelo": 10053
   },
   {
-    "id_modelo": 142600569,
-    "modelo": "CC101"
-  },
-  {
-    "id_modelo": 142600570,
-    "modelo": "100D-B"
-  },
-  {
-    "id_modelo": 142600571,
-    "modelo": "100D-G"
-  },
-  {
-    "id_modelo": 142600573,
-    "modelo": "100D-S"
-  },
-  {
-    "id_modelo": 142600575,
-    "modelo": "100D-BK"
-  },
-  {
     "id_modelo": 142600577,
     "modelo": "100D-R"
-  },
-  {
-    "id_modelo": 142600579,
-    "modelo": "PT03755"
-  },
-  {
-    "id_modelo": 142600580,
-    "modelo": "10A-1"
-  },
-  {
-    "id_modelo": 142600581,
-    "modelo": "10A-2"
-  },
-  {
-    "id_modelo": 142600582,
-    "modelo": "SS-654-100ML"
   },
   {
     "id_modelo": 142600583,
@@ -120,112 +316,24 @@
     "modelo": "ST-15119"
   },
   {
-    "id_modelo": 142600586,
-    "modelo": "6X30-10A"
-  },
-  {
-    "id_modelo": 142600587,
-    "modelo": 11751
-  },
-  {
-    "id_modelo": 142600588,
-    "modelo": 11753
-  },
-  {
-    "id_modelo": 142600589,
-    "modelo": 11752
-  },
-  {
-    "id_modelo": 142600590,
-    "modelo": 11417
-  },
-  {
-    "id_modelo": 142600591,
-    "modelo": "PT03758"
-  },
-  {
-    "id_modelo": 142600593,
-    "modelo": "JUTE-4-1/2-E"
-  },
-  {
     "id_modelo": 142600595,
     "modelo": "ST-90086E-ADH"
-  },
-  {
-    "id_modelo": 142600598,
-    "modelo": "MG-1849"
-  },
-  {
-    "id_modelo": 142600599,
-    "modelo": "ST-90086AE"
-  },
-  {
-    "id_modelo": 142600601,
-    "modelo": 14685
-  },
-  {
-    "id_modelo": 142600607,
-    "modelo": "L862"
-  },
-  {
-    "id_modelo": 142600608,
-    "modelo": "T20"
   },
   {
     "id_modelo": 142600609,
     "modelo": 413
   },
   {
-    "id_modelo": 142600610,
-    "modelo": "PY21W-AMBAR"
-  },
-  {
     "id_modelo": 142600613,
     "modelo": "G11-R"
-  },
-  {
-    "id_modelo": 142600614,
-    "modelo": "ST-070S-SET"
   },
   {
     "id_modelo": 142600615,
     "modelo": "T-13-ORANGE"
   },
   {
-    "id_modelo": 142600617,
-    "modelo": "W21W-1"
-  },
-  {
     "id_modelo": 142600619,
     "modelo": "T5"
-  },
-  {
-    "id_modelo": 142600620,
-    "modelo": 14665
-  },
-  {
-    "id_modelo": 142600621,
-    "modelo": "W5W"
-  },
-  {
-    "id_modelo": 142600622,
-    "modelo": "T10-12VX5W"
-  },
-  {
-    "id_modelo": 142600623,
-    "modelo": "BAY9S"
-  },
-  {
-    "id_modelo": 142600624,
-    "modelo": "H6W-O"
-  },
-  {
-    "id_modelo": 142600625,
-    "modelo": "H6W-W"
-  },
-  {
-    "id_modelo": 142600626,
-    "modelo": "TC-6613WB"
   },
   {
     "id_modelo": 142600628,
@@ -236,16 +344,8 @@
     "modelo": "ST-214LEDE"
   },
   {
-    "id_modelo": 142600630,
-    "modelo": "ST-220-LEDE"
-  },
-  {
     "id_modelo": 142600631,
     "modelo": "ST-217-LEDE"
-  },
-  {
-    "id_modelo": 142600632,
-    "modelo": "WL001W-LED-SET"
   },
   {
     "id_modelo": 142600633,
@@ -272,40 +372,12 @@
     "modelo": "ST-01261LED"
   },
   {
-    "id_modelo": 142600639,
-    "modelo": "ST-01262-1LED"
-  },
-  {
-    "id_modelo": 142600640,
-    "modelo": "ST-01262LEDE"
-  },
-  {
     "id_modelo": 142600641,
     "modelo": "ST7001LED"
   },
   {
-    "id_modelo": 142600642,
-    "modelo": "ST-70017ALEDE"
-  },
-  {
-    "id_modelo": 142600643,
-    "modelo": "ST-70017LEDE"
-  },
-  {
-    "id_modelo": 142600644,
-    "modelo": "ST-70018ALEDE"
-  },
-  {
-    "id_modelo": 142600645,
-    "modelo": "ST-70018LEDE"
-  },
-  {
     "id_modelo": 142600646,
     "modelo": "ST-70019LEDE"
-  },
-  {
-    "id_modelo": 142600647,
-    "modelo": "ST-80187ACGLEDE"
   },
   {
     "id_modelo": 142600648,
@@ -324,40 +396,12 @@
     "modelo": 13320210
   },
   {
-    "id_modelo": 142600652,
-    "modelo": "132SP"
-  },
-  {
     "id_modelo": 142600653,
     "modelo": 13320310
   },
   {
-    "id_modelo": 142600655,
-    "modelo": "AS-1"
-  },
-  {
-    "id_modelo": 142600656,
-    "modelo": "AS1"
-  },
-  {
-    "id_modelo": 142600658,
-    "modelo": "6X30-15A"
-  },
-  {
     "id_modelo": 142600659,
     "modelo": "PT12545"
-  },
-  {
-    "id_modelo": 142600660,
-    "modelo": "MF5-16"
-  },
-  {
-    "id_modelo": 142600661,
-    "modelo": "MF5-17/19"
-  },
-  {
-    "id_modelo": 142600668,
-    "modelo": "MF5-18MM"
   },
   {
     "id_modelo": 142600669,
@@ -368,36 +412,8 @@
     "modelo": "SS-654"
   },
   {
-    "id_modelo": 142600671,
-    "modelo": "LED"
-  },
-  {
-    "id_modelo": 142600672,
-    "modelo": "B8.5D"
-  },
-  {
-    "id_modelo": 142600673,
-    "modelo": "T10-12V-AMBAR"
-  },
-  {
-    "id_modelo": 142600674,
-    "modelo": "T10-12V-WHITE"
-  },
-  {
-    "id_modelo": 142600675,
-    "modelo": "1P-6M-TEFLON"
-  },
-  {
-    "id_modelo": 142600676,
-    "modelo": "20A-1"
-  },
-  {
     "id_modelo": 142600677,
     "modelo": "ST-3036"
-  },
-  {
-    "id_modelo": 142600679,
-    "modelo": "6X30-20A"
   },
   {
     "id_modelo": 142600680,
@@ -416,16 +432,8 @@
     "modelo": 219636
   },
   {
-    "id_modelo": 142600686,
-    "modelo": "MF5-21"
-  },
-  {
     "id_modelo": 142600687,
     "modelo": 219637
-  },
-  {
-    "id_modelo": 142600688,
-    "modelo": "ST-1279S-3"
   },
   {
     "id_modelo": 142600690,
@@ -444,32 +452,16 @@
     "modelo": 238.06
   },
   {
-    "id_modelo": 142600696,
-    "modelo": "SS-654-250ML"
-  },
-  {
     "id_modelo": 142600697,
     "modelo": 2529310
-  },
-  {
-    "id_modelo": 142600698,
-    "modelo": "SS-819L-RED"
   },
   {
     "id_modelo": 142600699,
     "modelo": "ASOT.344-BK"
   },
   {
-    "id_modelo": 142600700,
-    "modelo": "261C-BK"
-  },
-  {
     "id_modelo": 142600701,
     "modelo": 273202
-  },
-  {
-    "id_modelo": 142600703,
-    "modelo": "A-TL049 RED"
   },
   {
     "id_modelo": 142600704,
@@ -536,18 +528,6 @@
     "modelo": 3039010
   },
   {
-    "id_modelo": 142600722,
-    "modelo": "30A-1"
-  },
-  {
-    "id_modelo": 142600723,
-    "modelo": "30A-2"
-  },
-  {
-    "id_modelo": 142600724,
-    "modelo": "6X30-30A"
-  },
-  {
     "id_modelo": 142600725,
     "modelo": "LD-12P 30A"
   },
@@ -578,10 +558,6 @@
   {
     "id_modelo": 142600738,
     "modelo": 3709000
-  },
-  {
-    "id_modelo": 142600740,
-    "modelo": "KB-03"
   },
   {
     "id_modelo": 142600742,
@@ -624,24 +600,8 @@
     "modelo": "ST-01235-LEDE-BLACK"
   },
   {
-    "id_modelo": 142600754,
-    "modelo": "450A"
-  },
-  {
-    "id_modelo": 142600755,
-    "modelo": "SS-654-500ML"
-  },
-  {
-    "id_modelo": 142600757,
-    "modelo": "578-55101519"
-  },
-  {
     "id_modelo": 142600759,
     "modelo": 581290
-  },
-  {
-    "id_modelo": 142600760,
-    "modelo": "5A"
   },
   {
     "id_modelo": 142600764,
@@ -652,140 +612,8 @@
     "modelo": 638522
   },
   {
-    "id_modelo": 142600771,
-    "modelo": 6688
-  },
-  {
-    "id_modelo": 142600773,
-    "modelo": 6691
-  },
-  {
-    "id_modelo": 142600774,
-    "modelo": 6695
-  },
-  {
-    "id_modelo": 142600775,
-    "modelo": 6696
-  },
-  {
-    "id_modelo": 142600776,
-    "modelo": 6697
-  },
-  {
-    "id_modelo": 142600777,
-    "modelo": 6702
-  },
-  {
-    "id_modelo": 142600778,
-    "modelo": 6703
-  },
-  {
-    "id_modelo": 142600779,
-    "modelo": 6704
-  },
-  {
-    "id_modelo": 142600780,
-    "modelo": 6716
-  },
-  {
-    "id_modelo": 142600781,
-    "modelo": 6747
-  },
-  {
-    "id_modelo": 142600782,
-    "modelo": 6749
-  },
-  {
-    "id_modelo": 142600783,
-    "modelo": 6762
-  },
-  {
-    "id_modelo": 142600784,
-    "modelo": 6763
-  },
-  {
-    "id_modelo": 142600786,
-    "modelo": 6767
-  },
-  {
-    "id_modelo": 142600787,
-    "modelo": 6771
-  },
-  {
-    "id_modelo": 142600789,
-    "modelo": 6774
-  },
-  {
-    "id_modelo": 142600790,
-    "modelo": 6776
-  },
-  {
-    "id_modelo": 142600791,
-    "modelo": 6777
-  },
-  {
-    "id_modelo": 142600792,
-    "modelo": 6778
-  },
-  {
-    "id_modelo": 142600793,
-    "modelo": 6810
-  },
-  {
-    "id_modelo": 142600794,
-    "modelo": 6813
-  },
-  {
-    "id_modelo": 142600796,
-    "modelo": 6821
-  },
-  {
-    "id_modelo": 142600797,
-    "modelo": 6822
-  },
-  {
-    "id_modelo": 142600798,
-    "modelo": 6830
-  },
-  {
-    "id_modelo": 142600799,
-    "modelo": 6858
-  },
-  {
-    "id_modelo": 142600800,
-    "modelo": 6862
-  },
-  {
     "id_modelo": 142600801,
     "modelo": 6888
-  },
-  {
-    "id_modelo": 142600802,
-    "modelo": 6889
-  },
-  {
-    "id_modelo": 142600803,
-    "modelo": 6893
-  },
-  {
-    "id_modelo": 142600804,
-    "modelo": 6894
-  },
-  {
-    "id_modelo": 142600805,
-    "modelo": 6899
-  },
-  {
-    "id_modelo": 142600806,
-    "modelo": 6913
-  },
-  {
-    "id_modelo": 142600807,
-    "modelo": 6931
-  },
-  {
-    "id_modelo": 142600808,
-    "modelo": 6936
   },
   {
     "id_modelo": 142600811,
@@ -796,80 +624,8 @@
     "modelo": 6969
   },
   {
-    "id_modelo": 142600813,
-    "modelo": 6979
-  },
-  {
-    "id_modelo": 142600814,
-    "modelo": 6980
-  },
-  {
-    "id_modelo": 142600815,
-    "modelo": 6981
-  },
-  {
-    "id_modelo": 142600823,
-    "modelo": "P9C990044B"
-  },
-  {
-    "id_modelo": 142600826,
-    "modelo": "P9C990081B"
-  },
-  {
-    "id_modelo": 142600827,
-    "modelo": "P9C990091B"
-  },
-  {
-    "id_modelo": 142600828,
-    "modelo": "P9C9900G1B"
-  },
-  {
-    "id_modelo": 142600831,
-    "modelo": "SS-817-BLUE"
-  },
-  {
-    "id_modelo": 142600832,
-    "modelo": "SS-817-GRAY"
-  },
-  {
-    "id_modelo": 142600833,
-    "modelo": "SS-817-GREEN"
-  },
-  {
-    "id_modelo": 142600834,
-    "modelo": "SS-817-RED"
-  },
-  {
-    "id_modelo": 142600835,
-    "modelo": "SS-817-YELLOW"
-  },
-  {
-    "id_modelo": 142600836,
-    "modelo": "6TB99W0KAB"
-  },
-  {
-    "id_modelo": 142600837,
-    "modelo": 14673
-  },
-  {
-    "id_modelo": 142600838,
-    "modelo": "S1-6VX25W/25W"
-  },
-  {
-    "id_modelo": 142600839,
-    "modelo": 14682
-  },
-  {
-    "id_modelo": 142600840,
-    "modelo": "578-000-07"
-  },
-  {
     "id_modelo": 142600841,
     "modelo": "70050801 (AMBAR)"
-  },
-  {
-    "id_modelo": 142600842,
-    "modelo": "7.5A-1"
   },
   {
     "id_modelo": 142600843,
@@ -880,96 +636,12 @@
     "modelo": "70061701 (AMBAR)"
   },
   {
-    "id_modelo": 142600845,
-    "modelo": 7030
-  },
-  {
-    "id_modelo": 142600846,
-    "modelo": 7047
-  },
-  {
-    "id_modelo": 142600847,
-    "modelo": 7048
-  },
-  {
-    "id_modelo": 142600848,
-    "modelo": 7060
-  },
-  {
-    "id_modelo": 142600849,
-    "modelo": 7145
-  },
-  {
-    "id_modelo": 142600850,
-    "modelo": 7147
-  },
-  {
-    "id_modelo": 142600851,
-    "modelo": 7148
-  },
-  {
-    "id_modelo": 142600852,
-    "modelo": 7150
-  },
-  {
-    "id_modelo": 142600853,
-    "modelo": 7157
-  },
-  {
-    "id_modelo": 142600854,
-    "modelo": 7160
-  },
-  {
-    "id_modelo": 142600855,
-    "modelo": 7178
-  },
-  {
-    "id_modelo": 142600856,
-    "modelo": 7186
-  },
-  {
-    "id_modelo": 142600857,
-    "modelo": 7189
-  },
-  {
-    "id_modelo": 142600858,
-    "modelo": 7190
-  },
-  {
-    "id_modelo": 142600859,
-    "modelo": 7191
-  },
-  {
-    "id_modelo": 142600860,
-    "modelo": 7196
-  },
-  {
-    "id_modelo": 142600861,
-    "modelo": 7197
-  },
-  {
     "id_modelo": 142600863,
     "modelo": 7209
   },
   {
-    "id_modelo": 142600864,
-    "modelo": 7210
-  },
-  {
-    "id_modelo": 142600865,
-    "modelo": 7211
-  },
-  {
     "id_modelo": 142600866,
     "modelo": 7220
-  },
-  {
-    "id_modelo": 142600867,
-    "modelo": 7265
-  },
-  {
-    "id_modelo": 142600868,
-    "modelo": 7275
   },
   {
     "id_modelo": 142600870,
@@ -984,70 +656,6 @@
     "modelo": "732RJ"
   },
   {
-    "id_modelo": 142600873,
-    "modelo": 7370
-  },
-  {
-    "id_modelo": 142600875,
-    "modelo": 7454
-  },
-  {
-    "id_modelo": 142600876,
-    "modelo": 7456
-  },
-  {
-    "id_modelo": 142600877,
-    "modelo": 7462
-  },
-  {
-    "id_modelo": 142600878,
-    "modelo": 7463
-  },
-  {
-    "id_modelo": 142600879,
-    "modelo": 7480
-  },
-  {
-    "id_modelo": 142600880,
-    "modelo": 7485
-  },
-  {
-    "id_modelo": 142600881,
-    "modelo": 7505
-  },
-  {
-    "id_modelo": 142600882,
-    "modelo": 7518
-  },
-  {
-    "id_modelo": 142600883,
-    "modelo": 7519
-  },
-  {
-    "id_modelo": 142600884,
-    "modelo": 7534
-  },
-  {
-    "id_modelo": 142600885,
-    "modelo": 7537
-  },
-  {
-    "id_modelo": 142600886,
-    "modelo": 7544
-  },
-  {
-    "id_modelo": 142600887,
-    "modelo": 7545
-  },
-  {
-    "id_modelo": 142600889,
-    "modelo": 7579
-  },
-  {
-    "id_modelo": 142600890,
-    "modelo": 7580
-  },
-  {
     "id_modelo": 142600891,
     "modelo": 7631
   },
@@ -1056,52 +664,12 @@
     "modelo": 7629310
   },
   {
-    "id_modelo": 142600899,
-    "modelo": 7939
-  },
-  {
-    "id_modelo": 142600902,
-    "modelo": 7951
-  },
-  {
-    "id_modelo": 142600903,
-    "modelo": 7952
-  },
-  {
-    "id_modelo": 142600904,
-    "modelo": 7969
-  },
-  {
-    "id_modelo": 142600905,
-    "modelo": 7970
-  },
-  {
-    "id_modelo": 142600906,
-    "modelo": 7978
-  },
-  {
-    "id_modelo": 142600907,
-    "modelo": 7988
-  },
-  {
     "id_modelo": 142600913,
     "modelo": 80040701
   },
   {
-    "id_modelo": 142600914,
-    "modelo": 8053
-  },
-  {
     "id_modelo": 142600915,
     "modelo": 80040801
-  },
-  {
-    "id_modelo": 142600916,
-    "modelo": 8054
-  },
-  {
-    "id_modelo": 142600917,
-    "modelo": "PT34677"
   },
   {
     "id_modelo": 142600918,
@@ -1120,68 +688,12 @@
     "modelo": "P-812-Y"
   },
   {
-    "id_modelo": 142600922,
-    "modelo": 8104
-  },
-  {
     "id_modelo": 142600923,
     "modelo": 8103
   },
   {
-    "id_modelo": 142600924,
-    "modelo": 8107
-  },
-  {
-    "id_modelo": 142600925,
-    "modelo": 8125
-  },
-  {
     "id_modelo": 142600927,
     "modelo": 8127
-  },
-  {
-    "id_modelo": 142600928,
-    "modelo": 8140
-  },
-  {
-    "id_modelo": 142600929,
-    "modelo": 8144
-  },
-  {
-    "id_modelo": 142600930,
-    "modelo": 8148
-  },
-  {
-    "id_modelo": 142600931,
-    "modelo": 8158
-  },
-  {
-    "id_modelo": 142600932,
-    "modelo": 8161
-  },
-  {
-    "id_modelo": 142600933,
-    "modelo": 8181
-  },
-  {
-    "id_modelo": 142600934,
-    "modelo": 8182
-  },
-  {
-    "id_modelo": 142600935,
-    "modelo": 8183
-  },
-  {
-    "id_modelo": 142600936,
-    "modelo": 8185
-  },
-  {
-    "id_modelo": 142600937,
-    "modelo": 8186
-  },
-  {
-    "id_modelo": 142600938,
-    "modelo": 8201
   },
   {
     "id_modelo": 142600939,
@@ -1190,30 +702,6 @@
   {
     "id_modelo": 142600940,
     "modelo": 8212788
-  },
-  {
-    "id_modelo": 142600941,
-    "modelo": 8215
-  },
-  {
-    "id_modelo": 142600943,
-    "modelo": 8228
-  },
-  {
-    "id_modelo": 142600944,
-    "modelo": 8229
-  },
-  {
-    "id_modelo": 142600945,
-    "modelo": 8231
-  },
-  {
-    "id_modelo": 142600946,
-    "modelo": 8232
-  },
-  {
-    "id_modelo": 142600947,
-    "modelo": 8233
   },
   {
     "id_modelo": 142600948,
@@ -1236,124 +724,16 @@
     "modelo": 8261
   },
   {
-    "id_modelo": 142600953,
-    "modelo": 8269
-  },
-  {
-    "id_modelo": 142600954,
-    "modelo": 8272
-  },
-  {
-    "id_modelo": 142600955,
-    "modelo": 8273
-  },
-  {
-    "id_modelo": 142600956,
-    "modelo": 8274
-  },
-  {
-    "id_modelo": 142600957,
-    "modelo": 8275
-  },
-  {
-    "id_modelo": 142600958,
-    "modelo": 8276
-  },
-  {
-    "id_modelo": 142600959,
-    "modelo": 8282
-  },
-  {
-    "id_modelo": 142600961,
-    "modelo": 8296
-  },
-  {
     "id_modelo": 142600962,
     "modelo": "PW1-45´-YELLOW"
-  },
-  {
-    "id_modelo": 142600963,
-    "modelo": "PW1-RECTO-RED"
-  },
-  {
-    "id_modelo": 142600964,
-    "modelo": "PW1-RECTO-YELLOW"
-  },
-  {
-    "id_modelo": 142600965,
-    "modelo": 8302
-  },
-  {
-    "id_modelo": 142600966,
-    "modelo": 8303
-  },
-  {
-    "id_modelo": 142600967,
-    "modelo": 8332
-  },
-  {
-    "id_modelo": 142600968,
-    "modelo": 8333
-  },
-  {
-    "id_modelo": 142600969,
-    "modelo": 8334
-  },
-  {
-    "id_modelo": 142600970,
-    "modelo": 8399
   },
   {
     "id_modelo": 142600971,
     "modelo": 84061801
   },
   {
-    "id_modelo": 142600972,
-    "modelo": 869
-  },
-  {
-    "id_modelo": 142600973,
-    "modelo": 8894
-  },
-  {
-    "id_modelo": 142600974,
-    "modelo": 8900
-  },
-  {
     "id_modelo": 142600975,
     "modelo": 8909
-  },
-  {
-    "id_modelo": 142600977,
-    "modelo": 8911
-  },
-  {
-    "id_modelo": 142600978,
-    "modelo": 8932
-  },
-  {
-    "id_modelo": 142600979,
-    "modelo": 8941
-  },
-  {
-    "id_modelo": 142600980,
-    "modelo": 8946
-  },
-  {
-    "id_modelo": 142600981,
-    "modelo": 8960
-  },
-  {
-    "id_modelo": 142600982,
-    "modelo": 8961
-  },
-  {
-    "id_modelo": 142600983,
-    "modelo": 8974
-  },
-  {
-    "id_modelo": 142600984,
-    "modelo": 8975
   },
   {
     "id_modelo": 142600985,
@@ -1364,28 +744,12 @@
     "modelo": 8977
   },
   {
-    "id_modelo": 142600987,
-    "modelo": 8979
-  },
-  {
-    "id_modelo": 142600988,
-    "modelo": 8996
-  },
-  {
-    "id_modelo": 142600989,
-    "modelo": 8997
-  },
-  {
     "id_modelo": 142600990,
     "modelo": "8L"
   },
   {
     "id_modelo": 142600991,
     "modelo": "PT00150"
-  },
-  {
-    "id_modelo": 142600993,
-    "modelo": 9147
   },
   {
     "id_modelo": 142600994,
@@ -1400,104 +764,12 @@
     "modelo": "922-SILVER"
   },
   {
-    "id_modelo": 142600997,
-    "modelo": 928
-  },
-  {
     "id_modelo": 142600998,
     "modelo": "930-24/24"
   },
   {
-    "id_modelo": 142600999,
-    "modelo": 9326
-  },
-  {
-    "id_modelo": 142601000,
-    "modelo": 9327
-  },
-  {
-    "id_modelo": 142601001,
-    "modelo": 9329
-  },
-  {
-    "id_modelo": 142601002,
-    "modelo": 9407
-  },
-  {
-    "id_modelo": 142601006,
-    "modelo": 9588
-  },
-  {
-    "id_modelo": 142601008,
-    "modelo": 9759
-  },
-  {
-    "id_modelo": 142601009,
-    "modelo": 9771
-  },
-  {
-    "id_modelo": 142601011,
-    "modelo": 9786
-  },
-  {
-    "id_modelo": 142601012,
-    "modelo": 9685
-  },
-  {
-    "id_modelo": 142601013,
-    "modelo": 9787
-  },
-  {
-    "id_modelo": 142601014,
-    "modelo": 9758
-  },
-  {
-    "id_modelo": 142601015,
-    "modelo": 9777
-  },
-  {
-    "id_modelo": 142601016,
-    "modelo": 9791
-  },
-  {
-    "id_modelo": 142601017,
-    "modelo": 9793
-  },
-  {
-    "id_modelo": 142601018,
-    "modelo": 9798
-  },
-  {
-    "id_modelo": 142601020,
-    "modelo": 9799
-  },
-  {
-    "id_modelo": 142601021,
-    "modelo": 9803
-  },
-  {
-    "id_modelo": 142601022,
-    "modelo": 9837
-  },
-  {
-    "id_modelo": 142601024,
-    "modelo": 9855
-  },
-  {
-    "id_modelo": 142601025,
-    "modelo": 9886
-  },
-  {
-    "id_modelo": 142601026,
-    "modelo": 9887
-  },
-  {
     "id_modelo": 142601027,
     "modelo": 9899
-  },
-  {
-    "id_modelo": 142601029,
-    "modelo": "ST-90114A"
   },
   {
     "id_modelo": 142601030,
@@ -1516,24 +788,8 @@
     "modelo": 9916
   },
   {
-    "id_modelo": 142601035,
-    "modelo": 9935
-  },
-  {
-    "id_modelo": 142601040,
-    "modelo": 9985
-  },
-  {
-    "id_modelo": 142601041,
-    "modelo": "T15-12V-WHITE"
-  },
-  {
     "id_modelo": 142601042,
     "modelo": "A-KK009"
-  },
-  {
-    "id_modelo": 142601043,
-    "modelo": "T15-12V-AMBAR"
   },
   {
     "id_modelo": 142601044,
@@ -1576,16 +832,8 @@
     "modelo": "A2-SILVER"
   },
   {
-    "id_modelo": 142601054,
-    "modelo": "A40-50022"
-  },
-  {
     "id_modelo": 142601057,
     "modelo": "ACLC-03"
-  },
-  {
-    "id_modelo": 142601060,
-    "modelo": "PT10829"
   },
   {
     "id_modelo": 142601061,
@@ -1600,20 +848,12 @@
     "modelo": "SS438-13.5MM-BLACK"
   },
   {
-    "id_modelo": 142601066,
-    "modelo": "SS325-CARBON"
-  },
-  {
     "id_modelo": 142601067,
     "modelo": "SS325"
   },
   {
     "id_modelo": 142601068,
     "modelo": "SS607"
-  },
-  {
-    "id_modelo": 142601069,
-    "modelo": "SS325-SILVER"
   },
   {
     "id_modelo": 142601070,
@@ -1653,10 +893,6 @@
   },
   {
     "id_modelo": 142601080,
-    "modelo": "SS-386"
-  },
-  {
-    "id_modelo": 142601082,
     "modelo": "SS-386"
   },
   {
@@ -1740,10 +976,6 @@
     "modelo": "910-SILVER"
   },
   {
-    "id_modelo": 142601105,
-    "modelo": "SS-634-BLUE"
-  },
-  {
     "id_modelo": 142601106,
     "modelo": "SS-388"
   },
@@ -1764,28 +996,12 @@
     "modelo": "SS-388-SILVER"
   },
   {
-    "id_modelo": 142601112,
-    "modelo": "SS-388-BLACK"
-  },
-  {
     "id_modelo": 142601113,
     "modelo": "SS-TMAX"
   },
   {
-    "id_modelo": 142601115,
-    "modelo": "SS-TMAX-BLACK"
-  },
-  {
     "id_modelo": 142601116,
     "modelo": "SS-TMAX-CARBON"
-  },
-  {
-    "id_modelo": 142601117,
-    "modelo": "HL381 H7 LED"
-  },
-  {
-    "id_modelo": 142601118,
-    "modelo": "HL380 H1 LED"
   },
   {
     "id_modelo": 142601119,
@@ -1804,44 +1020,12 @@
     "modelo": "BS-030-HM"
   },
   {
-    "id_modelo": 142601124,
-    "modelo": 6557
-  },
-  {
-    "id_modelo": 142601125,
-    "modelo": "M8899"
-  },
-  {
     "id_modelo": 142601126,
     "modelo": "BS-023"
   },
   {
-    "id_modelo": 142601129,
-    "modelo": 10875
-  },
-  {
-    "id_modelo": 142601130,
-    "modelo": "TT-887"
-  },
-  {
-    "id_modelo": 142601131,
-    "modelo": "TT-888"
-  },
-  {
     "id_modelo": 142601133,
     "modelo": "AS-18B LH"
-  },
-  {
-    "id_modelo": 142601134,
-    "modelo": "AS-18CP RH"
-  },
-  {
-    "id_modelo": 142601135,
-    "modelo": "AS-MC1"
-  },
-  {
-    "id_modelo": 142601136,
-    "modelo": "AS9"
   },
   {
     "id_modelo": 142601138,
@@ -1860,42 +1044,6 @@
     "modelo": "ASOT-16-GY"
   },
   {
-    "id_modelo": 142601143,
-    "modelo": "ASOT-335-FLUOR-ORANG"
-  },
-  {
-    "id_modelo": 142601144,
-    "modelo": "ASOT-335-FLUOR-RED"
-  },
-  {
-    "id_modelo": 142601145,
-    "modelo": "ASOT-335-PINK"
-  },
-  {
-    "id_modelo": 142601146,
-    "modelo": "ASOT-335-YELLOW"
-  },
-  {
-    "id_modelo": 142601149,
-    "modelo": "ASPG-03-OR"
-  },
-  {
-    "id_modelo": 142601150,
-    "modelo": "ASPG-03-RD"
-  },
-  {
-    "id_modelo": 142601152,
-    "modelo": "ASPG-03F-CL"
-  },
-  {
-    "id_modelo": 142601154,
-    "modelo": "ASPG-03F-YE"
-  },
-  {
-    "id_modelo": 142601155,
-    "modelo": "ASPRV-05-GY"
-  },
-  {
     "id_modelo": 142601156,
     "modelo": "B02-NO.31"
   },
@@ -1904,20 +1052,8 @@
     "modelo": "BA00090"
   },
   {
-    "id_modelo": 142601158,
-    "modelo": "BA-15S-G18-12X23"
-  },
-  {
     "id_modelo": 142601163,
     "modelo": "PT08354"
-  },
-  {
-    "id_modelo": 142601165,
-    "modelo": 11765
-  },
-  {
-    "id_modelo": 142601166,
-    "modelo": 11766
   },
   {
     "id_modelo": 142601167,
@@ -1928,24 +1064,12 @@
     "modelo": "F100461600"
   },
   {
-    "id_modelo": 142601169,
-    "modelo": "TM M10/150 DE FB277"
-  },
-  {
     "id_modelo": 142601170,
     "modelo": "ST-01241LED"
   },
   {
     "id_modelo": 142601171,
     "modelo": 3223
-  },
-  {
-    "id_modelo": 142601172,
-    "modelo": "BS-014"
-  },
-  {
-    "id_modelo": 142601173,
-    "modelo": "BS-025"
   },
   {
     "id_modelo": 142601174,
@@ -1988,14 +1112,6 @@
     "modelo": "C248-CRC-00"
   },
   {
-    "id_modelo": 142601185,
-    "modelo": "C3501000"
-  },
-  {
-    "id_modelo": 142601187,
-    "modelo": "CL-531"
-  },
-  {
     "id_modelo": 142601189,
     "modelo": "013325G"
   },
@@ -2006,10 +1122,6 @@
   {
     "id_modelo": 142601191,
     "modelo": "CL-534"
-  },
-  {
-    "id_modelo": 142601192,
-    "modelo": "CTQQ-00005"
   },
   {
     "id_modelo": 142601193,
@@ -2040,24 +1152,8 @@
     "modelo": "T82L"
   },
   {
-    "id_modelo": 142601201,
-    "modelo": "CLL-129"
-  },
-  {
-    "id_modelo": 142601202,
-    "modelo": "PT07594"
-  },
-  {
     "id_modelo": 142601203,
     "modelo": "2.5X8"
-  },
-  {
-    "id_modelo": 142601204,
-    "modelo": "PT06283"
-  },
-  {
-    "id_modelo": 142601205,
-    "modelo": "MBH001"
   },
   {
     "id_modelo": 142601206,
@@ -2074,22 +1170,6 @@
   {
     "id_modelo": 142601209,
     "modelo": "MBH001"
-  },
-  {
-    "id_modelo": 142601210,
-    "modelo": "MHB001"
-  },
-  {
-    "id_modelo": 142601211,
-    "modelo": "22.2*4T*900L*BLACK"
-  },
-  {
-    "id_modelo": 142601212,
-    "modelo": "22.2*4T*900L*SILVER"
-  },
-  {
-    "id_modelo": 142601213,
-    "modelo": "HB-MA1"
   },
   {
     "id_modelo": 142601214,
@@ -2140,22 +1220,6 @@
     "modelo": 932
   },
   {
-    "id_modelo": 142601226,
-    "modelo": "28.6*4T*850L*BLACK"
-  },
-  {
-    "id_modelo": 142601227,
-    "modelo": "28.6*4T*850L*GOLD"
-  },
-  {
-    "id_modelo": 142601228,
-    "modelo": "28.6*4T*850L*RED"
-  },
-  {
-    "id_modelo": 142601229,
-    "modelo": "28.6*4T*850L*SILVER"
-  },
-  {
     "id_modelo": 142601230,
     "modelo": "ASOT-343-BK"
   },
@@ -2170,10 +1234,6 @@
   {
     "id_modelo": 142601233,
     "modelo": "4X8"
-  },
-  {
-    "id_modelo": 142601234,
-    "modelo": "MF5-5X16-BLUE"
   },
   {
     "id_modelo": 142601235,
@@ -2192,16 +1252,8 @@
     "modelo": "6X10"
   },
   {
-    "id_modelo": 142601239,
-    "modelo": "KA-82A7"
-  },
-  {
     "id_modelo": 142601247,
     "modelo": "EJ3S10AG3B"
-  },
-  {
-    "id_modelo": 142601248,
-    "modelo": 6583
   },
   {
     "id_modelo": 142601249,
@@ -2212,10 +1264,6 @@
     "modelo": 237
   },
   {
-    "id_modelo": 142601252,
-    "modelo": 12841
-  },
-  {
     "id_modelo": 142601255,
     "modelo": "PT06125"
   },
@@ -2224,56 +1272,16 @@
     "modelo": "PT06126"
   },
   {
-    "id_modelo": 142601259,
-    "modelo": "E290D"
-  },
-  {
-    "id_modelo": 142601261,
-    "modelo": "E584BL"
-  },
-  {
     "id_modelo": 142601262,
     "modelo": "E476"
-  },
-  {
-    "id_modelo": 142601263,
-    "modelo": "E584NR"
   },
   {
     "id_modelo": 142601264,
     "modelo": "E706"
   },
   {
-    "id_modelo": 142601265,
-    "modelo": "E778BL"
-  },
-  {
-    "id_modelo": 142601266,
-    "modelo": "E341"
-  },
-  {
-    "id_modelo": 142601267,
-    "modelo": 11715
-  },
-  {
-    "id_modelo": 142601268,
-    "modelo": 11714
-  },
-  {
-    "id_modelo": 142601269,
-    "modelo": "E382IAZ"
-  },
-  {
-    "id_modelo": 142601270,
-    "modelo": "E382INJ"
-  },
-  {
     "id_modelo": 142601271,
     "modelo": "PT12527"
-  },
-  {
-    "id_modelo": 142601272,
-    "modelo": "E382IRJ"
   },
   {
     "id_modelo": 142601273,
@@ -2304,28 +1312,8 @@
     "modelo": "PT93559"
   },
   {
-    "id_modelo": 142601281,
-    "modelo": "YM-28104ELEDW-1"
-  },
-  {
-    "id_modelo": 142601282,
-    "modelo": "YM-2889E-1"
-  },
-  {
-    "id_modelo": 142601283,
-    "modelo": "E2090058"
-  },
-  {
     "id_modelo": 142601286,
     "modelo": "JY-111"
-  },
-  {
-    "id_modelo": 142601287,
-    "modelo": "KA-92"
-  },
-  {
-    "id_modelo": 142601288,
-    "modelo": "E2090065C"
   },
   {
     "id_modelo": 142601290,
@@ -2364,24 +1352,8 @@
     "modelo": "FP-262-LL"
   },
   {
-    "id_modelo": 142601303,
-    "modelo": "FV-256-6"
-  },
-  {
     "id_modelo": 142601304,
     "modelo": "FZ-222SD"
-  },
-  {
-    "id_modelo": 142601305,
-    "modelo": "BA21D 12V36/45W"
-  },
-  {
-    "id_modelo": 142601306,
-    "modelo": "HHMG1808CL"
-  },
-  {
-    "id_modelo": 142601307,
-    "modelo": "BA21D 6V36/45W"
   },
   {
     "id_modelo": 142601308,
@@ -2390,10 +1362,6 @@
   {
     "id_modelo": 142601309,
     "modelo": "ASB-158F"
-  },
-  {
-    "id_modelo": 142601310,
-    "modelo": "GNC-221"
   },
   {
     "id_modelo": 142601311,
@@ -2408,60 +1376,8 @@
     "modelo": "GNC-221"
   },
   {
-    "id_modelo": 142601314,
-    "modelo": 14636
-  },
-  {
     "id_modelo": 142601316,
     "modelo": "ST-01234E-BLACK"
-  },
-  {
-    "id_modelo": 142601317,
-    "modelo": 14638
-  },
-  {
-    "id_modelo": 142601318,
-    "modelo": "HH0H402CL"
-  },
-  {
-    "id_modelo": 142601319,
-    "modelo": "H4 12V60/55W DIAMOND"
-  },
-  {
-    "id_modelo": 142601320,
-    "modelo": "H4 12V60/55WPLATINUM"
-  },
-  {
-    "id_modelo": 142601321,
-    "modelo": "H4 12V60/55W POLARIS"
-  },
-  {
-    "id_modelo": 142601322,
-    "modelo": "HH0H401W2"
-  },
-  {
-    "id_modelo": 142601323,
-    "modelo": 14639
-  },
-  {
-    "id_modelo": 142601324,
-    "modelo": "H4 12V55W PLATINUM"
-  },
-  {
-    "id_modelo": 142601325,
-    "modelo": "H4 12V55W POLARIS"
-  },
-  {
-    "id_modelo": 142601326,
-    "modelo": 14641
-  },
-  {
-    "id_modelo": 142601327,
-    "modelo": "H8"
-  },
-  {
-    "id_modelo": 142601331,
-    "modelo": "ST-125"
   },
   {
     "id_modelo": 142601332,
@@ -2476,32 +1392,8 @@
     "modelo": "ASCG-14-RD"
   },
   {
-    "id_modelo": 142601335,
-    "modelo": "ASLC-01-RD"
-  },
-  {
-    "id_modelo": 142601336,
-    "modelo": "ASLC-04-RD"
-  },
-  {
-    "id_modelo": 142601338,
-    "modelo": "C8-SPH030"
-  },
-  {
     "id_modelo": 142601342,
     "modelo": 7633
-  },
-  {
-    "id_modelo": 142601344,
-    "modelo": 6530
-  },
-  {
-    "id_modelo": 142601345,
-    "modelo": 6616
-  },
-  {
-    "id_modelo": 142601346,
-    "modelo": 11946
   },
   {
     "id_modelo": 142601347,
@@ -2512,32 +1404,12 @@
     "modelo": "MT116-HD093"
   },
   {
-    "id_modelo": 142601351,
-    "modelo": "ST-13152-LED-RH"
-  },
-  {
-    "id_modelo": 142601352,
-    "modelo": "ASEP-01-RD"
-  },
-  {
-    "id_modelo": 142601353,
-    "modelo": "ST-13152-LH"
-  },
-  {
     "id_modelo": 142601354,
     "modelo": 8631
   },
   {
     "id_modelo": 142601355,
     "modelo": 8632
-  },
-  {
-    "id_modelo": 142601356,
-    "modelo": "M8022"
-  },
-  {
-    "id_modelo": 142601357,
-    "modelo": "M8023"
   },
   {
     "id_modelo": 142601358,
@@ -2548,36 +1420,8 @@
     "modelo": "RH11"
   },
   {
-    "id_modelo": 142601360,
-    "modelo": "ASLC-04-BK"
-  },
-  {
     "id_modelo": 142601361,
     "modelo": "BS-011"
-  },
-  {
-    "id_modelo": 142601362,
-    "modelo": 8009
-  },
-  {
-    "id_modelo": 142601363,
-    "modelo": "ST-13149-RH-AM"
-  },
-  {
-    "id_modelo": 142601365,
-    "modelo": "ST-13149-LH-AM"
-  },
-  {
-    "id_modelo": 142601366,
-    "modelo": 11721
-  },
-  {
-    "id_modelo": 142601367,
-    "modelo": 11722
-  },
-  {
-    "id_modelo": 142601369,
-    "modelo": "L35-466"
   },
   {
     "id_modelo": 142601370,
@@ -2586,14 +1430,6 @@
   {
     "id_modelo": 142601371,
     "modelo": "MBS-1137A"
-  },
-  {
-    "id_modelo": 142601373,
-    "modelo": "HS5 12V35/30W CLEAR"
-  },
-  {
-    "id_modelo": 142601375,
-    "modelo": "ASCG-07-BK"
   },
   {
     "id_modelo": 142601377,
@@ -2610,10 +1446,6 @@
   {
     "id_modelo": 142601381,
     "modelo": "JY-107-RIGHT"
-  },
-  {
-    "id_modelo": 142601382,
-    "modelo": "JY-110-LEFT-CARBON"
   },
   {
     "id_modelo": 142601383,
@@ -2636,30 +1468,6 @@
     "modelo": "K-5041"
   },
   {
-    "id_modelo": 142601391,
-    "modelo": "KA-32A-LEFT"
-  },
-  {
-    "id_modelo": 142601393,
-    "modelo": "KA-51L"
-  },
-  {
-    "id_modelo": 142601394,
-    "modelo": "KA-51R"
-  },
-  {
-    "id_modelo": 142601395,
-    "modelo": "KA-62A-RIGHT"
-  },
-  {
-    "id_modelo": 142601396,
-    "modelo": "KA-93-3-M10-LEFT"
-  },
-  {
-    "id_modelo": 142601397,
-    "modelo": "KA-93-3-M10-RIGHT"
-  },
-  {
     "id_modelo": 142601398,
     "modelo": "KA-94A-W-BULB"
   },
@@ -2674,26 +1482,6 @@
   {
     "id_modelo": 142601401,
     "modelo": "ASCG-16-GN"
-  },
-  {
-    "id_modelo": 142601402,
-    "modelo": "ASLC-04-GR"
-  },
-  {
-    "id_modelo": 142601403,
-    "modelo": 6540
-  },
-  {
-    "id_modelo": 142601404,
-    "modelo": "ASEP-05-GR"
-  },
-  {
-    "id_modelo": 142601407,
-    "modelo": "TT-436C-KF"
-  },
-  {
-    "id_modelo": 142601408,
-    "modelo": 13781
   },
   {
     "id_modelo": 142601409,
@@ -2712,10 +1500,6 @@
     "modelo": "ASSB-19"
   },
   {
-    "id_modelo": 142601414,
-    "modelo": "ST-04001"
-  },
-  {
     "id_modelo": 142601416,
     "modelo": "RSK5-BK"
   },
@@ -2728,56 +1512,20 @@
     "modelo": "JY-4481P"
   },
   {
-    "id_modelo": 142601419,
-    "modelo": "ASPRV-04-GY"
-  },
-  {
     "id_modelo": 142601420,
     "modelo": "JY-4480P"
-  },
-  {
-    "id_modelo": 142601421,
-    "modelo": "KBY-L"
-  },
-  {
-    "id_modelo": 142601422,
-    "modelo": "KBK-FL"
-  },
-  {
-    "id_modelo": 142601423,
-    "modelo": "KBY-R"
-  },
-  {
-    "id_modelo": 142601426,
-    "modelo": "KGBG-L"
-  },
-  {
-    "id_modelo": 142601427,
-    "modelo": "KGBG-R"
   },
   {
     "id_modelo": 142601428,
     "modelo": "KHB4T"
   },
   {
-    "id_modelo": 142601432,
-    "modelo": "KIT-SL1-TITAN"
-  },
-  {
     "id_modelo": 142601433,
     "modelo": "KKC-02L"
   },
   {
-    "id_modelo": 142601434,
-    "modelo": "KKC4-FL"
-  },
-  {
     "id_modelo": 142601435,
     "modelo": "KKC4-02R"
-  },
-  {
-    "id_modelo": 142601436,
-    "modelo": "KKC4-FR"
   },
   {
     "id_modelo": 142601438,
@@ -2824,52 +1572,8 @@
     "modelo": "ASLC-05-BK"
   },
   {
-    "id_modelo": 142601453,
-    "modelo": "ASEP-06-OR"
-  },
-  {
-    "id_modelo": 142601454,
-    "modelo": "ASEP-13-BL"
-  },
-  {
-    "id_modelo": 142601455,
-    "modelo": "ASEP-13-OR"
-  },
-  {
     "id_modelo": 142601458,
     "modelo": "ASWS-01-BL"
-  },
-  {
-    "id_modelo": 142601463,
-    "modelo": "ST-15119A-LH"
-  },
-  {
-    "id_modelo": 142601464,
-    "modelo": 17014
-  },
-  {
-    "id_modelo": 142601465,
-    "modelo": 17015
-  },
-  {
-    "id_modelo": 142601466,
-    "modelo": 17016
-  },
-  {
-    "id_modelo": 142601467,
-    "modelo": 17018
-  },
-  {
-    "id_modelo": 142601468,
-    "modelo": 9890
-  },
-  {
-    "id_modelo": 142601469,
-    "modelo": 9891
-  },
-  {
-    "id_modelo": 142601470,
-    "modelo": 12505
   },
   {
     "id_modelo": 142601477,
@@ -2888,32 +1592,8 @@
     "modelo": 13703
   },
   {
-    "id_modelo": 142601481,
-    "modelo": "HL514 BA15S WHITE"
-  },
-  {
-    "id_modelo": 142601482,
-    "modelo": "HL515 BAU15S AMBER"
-  },
-  {
-    "id_modelo": 142601492,
-    "modelo": "LW-929"
-  },
-  {
-    "id_modelo": 142601493,
-    "modelo": "JY-110"
-  },
-  {
-    "id_modelo": 142601494,
-    "modelo": "E342"
-  },
-  {
     "id_modelo": 142601495,
     "modelo": "KA-79A-M10/125"
-  },
-  {
-    "id_modelo": 142601496,
-    "modelo": "KA-35"
   },
   {
     "id_modelo": 142601497,
@@ -2932,48 +1612,12 @@
     "modelo": "ASOT-249F-GY"
   },
   {
-    "id_modelo": 142601501,
-    "modelo": "E277D"
-  },
-  {
-    "id_modelo": 142601502,
-    "modelo": "E277I"
-  },
-  {
-    "id_modelo": 142601503,
-    "modelo": "E290I"
-  },
-  {
     "id_modelo": 142601505,
     "modelo": "RSK4-BLACK"
   },
   {
     "id_modelo": 142601506,
     "modelo": "SS-495-M10BK1"
-  },
-  {
-    "id_modelo": 142601507,
-    "modelo": "M354-1826-SL1"
-  },
-  {
-    "id_modelo": 142601508,
-    "modelo": "M354-1827-CB"
-  },
-  {
-    "id_modelo": 142601509,
-    "modelo": "M354-1827-SL1"
-  },
-  {
-    "id_modelo": 142601510,
-    "modelo": "MG-1826-LEFT-BLACK"
-  },
-  {
-    "id_modelo": 142601511,
-    "modelo": "MG-1826-RIGHT-BLACK"
-  },
-  {
-    "id_modelo": 142601512,
-    "modelo": "MG-1827-LEFT-TH-RIGH"
   },
   {
     "id_modelo": 142601513,
@@ -3016,100 +1660,12 @@
     "modelo": "PT03994"
   },
   {
-    "id_modelo": 142601524,
-    "modelo": "MF10-12-125-B"
-  },
-  {
-    "id_modelo": 142601525,
-    "modelo": "MF10-12-125-P"
-  },
-  {
-    "id_modelo": 142601529,
-    "modelo": "M354-1827-1SL"
-  },
-  {
-    "id_modelo": 142601530,
-    "modelo": "PT13955"
-  },
-  {
     "id_modelo": 142601531,
     "modelo": "M354-1848-SL"
   },
   {
-    "id_modelo": 142601532,
-    "modelo": "SA512AZ"
-  },
-  {
-    "id_modelo": 142601533,
-    "modelo": "MF5-5X16-ORO"
-  },
-  {
-    "id_modelo": 142601534,
-    "modelo": "MF5-5X16-RED"
-  },
-  {
-    "id_modelo": 142601535,
-    "modelo": "MF5-5X16-VIOLET"
-  },
-  {
-    "id_modelo": 142601536,
-    "modelo": "MF5-907"
-  },
-  {
-    "id_modelo": 142601537,
-    "modelo": "MF5-SA520-B"
-  },
-  {
-    "id_modelo": 142601538,
-    "modelo": "MF5-SA520-G"
-  },
-  {
-    "id_modelo": 142601539,
-    "modelo": "MF5-SA530-P"
-  },
-  {
-    "id_modelo": 142601540,
-    "modelo": "MF5-SA520-P"
-  },
-  {
     "id_modelo": 142601541,
     "modelo": "ASOT-247-BK"
-  },
-  {
-    "id_modelo": 142601543,
-    "modelo": "SA612AZ"
-  },
-  {
-    "id_modelo": 142601544,
-    "modelo": "SA612OR"
-  },
-  {
-    "id_modelo": 142601545,
-    "modelo": "MF5-SA620-B"
-  },
-  {
-    "id_modelo": 142601546,
-    "modelo": "MF5-SA620-G"
-  },
-  {
-    "id_modelo": 142601547,
-    "modelo": "MF10-M6X30-ORO"
-  },
-  {
-    "id_modelo": 142601548,
-    "modelo": "MF5-SA630-B"
-  },
-  {
-    "id_modelo": 142601549,
-    "modelo": "MF5-SA630-R"
-  },
-  {
-    "id_modelo": 142601550,
-    "modelo": "KA-75L"
-  },
-  {
-    "id_modelo": 142601552,
-    "modelo": "SM-542"
   },
   {
     "id_modelo": 142601553,
@@ -3132,24 +1688,12 @@
     "modelo": "ASOT-248-BK"
   },
   {
-    "id_modelo": 142601562,
-    "modelo": "JY-121"
-  },
-  {
     "id_modelo": 142601563,
     "modelo": "SS-495-M8BK1"
   },
   {
-    "id_modelo": 142601564,
-    "modelo": "MG-2830"
-  },
-  {
     "id_modelo": 142601565,
     "modelo": "E211D"
-  },
-  {
-    "id_modelo": 142601566,
-    "modelo": "KA-93-3"
   },
   {
     "id_modelo": 142601567,
@@ -3158,10 +1702,6 @@
   {
     "id_modelo": 142601568,
     "modelo": "PT08868"
-  },
-  {
-    "id_modelo": 142601569,
-    "modelo": "MB6-1"
   },
   {
     "id_modelo": 142601570,
@@ -3204,28 +1744,12 @@
     "modelo": "MF6-NO.18"
   },
   {
-    "id_modelo": 142601582,
-    "modelo": "MG-1826-NC"
-  },
-  {
     "id_modelo": 142601583,
     "modelo": "MG-1827-LEFT-BLACK"
   },
   {
     "id_modelo": 142601584,
     "modelo": "MG-1827-RIGHT-BLACK"
-  },
-  {
-    "id_modelo": 142601585,
-    "modelo": "MG-1849-CB-HB2"
-  },
-  {
-    "id_modelo": 142601586,
-    "modelo": "MG-1857-LEFT"
-  },
-  {
-    "id_modelo": 142601587,
-    "modelo": "MG-1857-RIGHT"
   },
   {
     "id_modelo": 142601588,
@@ -3236,24 +1760,12 @@
     "modelo": "JY-4403P"
   },
   {
-    "id_modelo": 142601598,
-    "modelo": 9225
-  },
-  {
     "id_modelo": 142601600,
     "modelo": "EB3A10A13B"
   },
   {
     "id_modelo": 142601605,
     "modelo": "EJ3A10A13B"
-  },
-  {
-    "id_modelo": 142601607,
-    "modelo": "E1140420"
-  },
-  {
-    "id_modelo": 142601608,
-    "modelo": "ST-201-RH"
   },
   {
     "id_modelo": 142601609,
@@ -3300,14 +1812,6 @@
     "modelo": "PT59266"
   },
   {
-    "id_modelo": 142601624,
-    "modelo": "P-001"
-  },
-  {
-    "id_modelo": 142601626,
-    "modelo": 14147
-  },
-  {
     "id_modelo": 142601629,
     "modelo": 8017
   },
@@ -3332,10 +1836,6 @@
     "modelo": "MF5-LUDIX"
   },
   {
-    "id_modelo": 142601635,
-    "modelo": "ST-6220-RH"
-  },
-  {
     "id_modelo": 142601636,
     "modelo": "BS-005"
   },
@@ -3348,56 +1848,16 @@
     "modelo": "S-542"
   },
   {
-    "id_modelo": 142601639,
-    "modelo": 12223
-  },
-  {
-    "id_modelo": 142601641,
-    "modelo": "841Z0W0S2B"
-  },
-  {
     "id_modelo": 142601644,
     "modelo": "PJ-HIGH"
   },
   {
-    "id_modelo": 142601645,
-    "modelo": "PT00006"
-  },
-  {
-    "id_modelo": 142601646,
-    "modelo": "PT00044"
+    "id_modelo": 142601647,
+    "modelo": "PT00056"
   },
   {
     "id_modelo": 142601648,
     "modelo": "PT00133"
-  },
-  {
-    "id_modelo": 142601649,
-    "modelo": "PT12182"
-  },
-  {
-    "id_modelo": 142601650,
-    "modelo": "PT12917"
-  },
-  {
-    "id_modelo": 142601651,
-    "modelo": "PT12918"
-  },
-  {
-    "id_modelo": 142601652,
-    "modelo": "PT12919"
-  },
-  {
-    "id_modelo": 142601653,
-    "modelo": "PT12920"
-  },
-  {
-    "id_modelo": 142601654,
-    "modelo": "PT12924"
-  },
-  {
-    "id_modelo": 142601655,
-    "modelo": "PT15125"
   },
   {
     "id_modelo": 142601656,
@@ -3408,40 +1868,12 @@
     "modelo": "PT94643"
   },
   {
-    "id_modelo": 142601658,
-    "modelo": "PT94653"
-  },
-  {
-    "id_modelo": 142601659,
-    "modelo": "PT94654"
-  },
-  {
     "id_modelo": 142601660,
     "modelo": "PT94655"
   },
   {
-    "id_modelo": 142601661,
-    "modelo": "PT94657"
-  },
-  {
-    "id_modelo": 142601662,
-    "modelo": "PX-174"
-  },
-  {
-    "id_modelo": 142601663,
-    "modelo": "PX-174C-25"
-  },
-  {
     "id_modelo": 142601664,
     "modelo": "PT08668"
-  },
-  {
-    "id_modelo": 142601665,
-    "modelo": 8034
-  },
-  {
-    "id_modelo": 142601666,
-    "modelo": "PT07596"
   },
   {
     "id_modelo": 142601668,
@@ -3472,10 +1904,6 @@
     "modelo": "RDR-211"
   },
   {
-    "id_modelo": 142601677,
-    "modelo": "M424"
-  },
-  {
     "id_modelo": 142601678,
     "modelo": "A012"
   },
@@ -3490,26 +1918,6 @@
   {
     "id_modelo": 142601685,
     "modelo": "S1080"
-  },
-  {
-    "id_modelo": 142601686,
-    "modelo": "HHMS2501CL 12V"
-  },
-  {
-    "id_modelo": 142601687,
-    "modelo": "HHMS2501CL 6V"
-  },
-  {
-    "id_modelo": 142601688,
-    "modelo": "SC-203A"
-  },
-  {
-    "id_modelo": 142601689,
-    "modelo": 6581
-  },
-  {
-    "id_modelo": 142601690,
-    "modelo": "GP051"
   },
   {
     "id_modelo": 142601691,
@@ -3568,18 +1976,6 @@
     "modelo": "MF5-SE92"
   },
   {
-    "id_modelo": 142601706,
-    "modelo": 341219
-  },
-  {
-    "id_modelo": 142601708,
-    "modelo": 2044100
-  },
-  {
-    "id_modelo": 142601711,
-    "modelo": "CX799B052B"
-  },
-  {
     "id_modelo": 142601715,
     "modelo": "MF5-4SPD"
   },
@@ -3604,22 +2000,6 @@
     "modelo": "MF5-SPD"
   },
   {
-    "id_modelo": 142601722,
-    "modelo": "SS-117"
-  },
-  {
-    "id_modelo": 142601723,
-    "modelo": "SS-331"
-  },
-  {
-    "id_modelo": 142601725,
-    "modelo": "SS-361-B"
-  },
-  {
-    "id_modelo": 142601727,
-    "modelo": "SS-361-R"
-  },
-  {
     "id_modelo": 142601728,
     "modelo": "SS-382"
   },
@@ -3634,14 +2014,6 @@
   {
     "id_modelo": 142601731,
     "modelo": "SS-484"
-  },
-  {
-    "id_modelo": 142601733,
-    "modelo": "SS-527-CF"
-  },
-  {
-    "id_modelo": 142601735,
-    "modelo": "SS-601"
   },
   {
     "id_modelo": 142601736,
@@ -3676,44 +2048,12 @@
     "modelo": "SS-707"
   },
   {
-    "id_modelo": 142601745,
-    "modelo": "SS-709"
-  },
-  {
     "id_modelo": 142601747,
     "modelo": "SS-817-ORANGE"
   },
   {
-    "id_modelo": 142601748,
-    "modelo": "SS644"
-  },
-  {
     "id_modelo": 142601749,
     "modelo": "ST-01230-LEDE"
-  },
-  {
-    "id_modelo": 142601750,
-    "modelo": "ST-01233FLEDE"
-  },
-  {
-    "id_modelo": 142601751,
-    "modelo": "ST-01262-2LED"
-  },
-  {
-    "id_modelo": 142601752,
-    "modelo": "ST-01264LEDE"
-  },
-  {
-    "id_modelo": 142601753,
-    "modelo": "ST-055-2"
-  },
-  {
-    "id_modelo": 142601754,
-    "modelo": "ST-087"
-  },
-  {
-    "id_modelo": 142601755,
-    "modelo": "ST-090-A"
   },
   {
     "id_modelo": 142601756,
@@ -3726,14 +2066,6 @@
   {
     "id_modelo": 142601758,
     "modelo": "ST-12100W"
-  },
-  {
-    "id_modelo": 142601759,
-    "modelo": "ST-12101-1 LEDE"
-  },
-  {
-    "id_modelo": 142601761,
-    "modelo": "ST-1248"
   },
   {
     "id_modelo": 142601762,
@@ -3752,24 +2084,12 @@
     "modelo": "ST-1287-LL"
   },
   {
-    "id_modelo": 142601767,
-    "modelo": "ST-1290"
-  },
-  {
     "id_modelo": 142601768,
     "modelo": "ST-1287-LR"
   },
   {
-    "id_modelo": 142601769,
-    "modelo": "ST-1293-LH"
-  },
-  {
     "id_modelo": 142601770,
     "modelo": "ST-1295"
-  },
-  {
-    "id_modelo": 142601771,
-    "modelo": "ST-1298-L"
   },
   {
     "id_modelo": 142601772,
@@ -3778,10 +2098,6 @@
   {
     "id_modelo": 142601773,
     "modelo": "ST-1298-LR"
-  },
-  {
-    "id_modelo": 142601774,
-    "modelo": "ST-1298-R"
   },
   {
     "id_modelo": 142601775,
@@ -3800,40 +2116,8 @@
     "modelo": "ST-13111-RH"
   },
   {
-    "id_modelo": 142601779,
-    "modelo": "ST-13123-A-RH"
-  },
-  {
     "id_modelo": 142601781,
     "modelo": "ST-13123-LH"
-  },
-  {
-    "id_modelo": 142601782,
-    "modelo": "ST-13123-RH"
-  },
-  {
-    "id_modelo": 142601783,
-    "modelo": "ST-13127-RH"
-  },
-  {
-    "id_modelo": 142601784,
-    "modelo": "ST-13130-RH"
-  },
-  {
-    "id_modelo": 142601788,
-    "modelo": "ST-13134-LH"
-  },
-  {
-    "id_modelo": 142601789,
-    "modelo": "ST-13134-RH"
-  },
-  {
-    "id_modelo": 142601790,
-    "modelo": "ST-13135-RH"
-  },
-  {
-    "id_modelo": 142601791,
-    "modelo": "ST-13136-RH"
   },
   {
     "id_modelo": 142601792,
@@ -3852,28 +2136,8 @@
     "modelo": "ST-13147W-LH"
   },
   {
-    "id_modelo": 142601796,
-    "modelo": "ST-13141-RH"
-  },
-  {
-    "id_modelo": 142601799,
-    "modelo": "ST-1332-RH"
-  },
-  {
-    "id_modelo": 142601800,
-    "modelo": "ST-1333-LH"
-  },
-  {
     "id_modelo": 142601802,
     "modelo": "ST-1335-RH"
-  },
-  {
-    "id_modelo": 142601803,
-    "modelo": "ST-1336-LH"
-  },
-  {
-    "id_modelo": 142601804,
-    "modelo": "ST-1350-L"
   },
   {
     "id_modelo": 142601805,
@@ -3886,14 +2150,6 @@
   {
     "id_modelo": 142601807,
     "modelo": "ST-1377-RH"
-  },
-  {
-    "id_modelo": 142601808,
-    "modelo": "ST-1433"
-  },
-  {
-    "id_modelo": 142601809,
-    "modelo": "ST-1448-RH"
   },
   {
     "id_modelo": 142601810,
@@ -3920,10 +2176,6 @@
     "modelo": "ST-15100-LR-2"
   },
   {
-    "id_modelo": 142601821,
-    "modelo": "ST-15101-LH"
-  },
-  {
     "id_modelo": 142601822,
     "modelo": "ST-15101-LL"
   },
@@ -3936,52 +2188,8 @@
     "modelo": "ST-15101-W-LL"
   },
   {
-    "id_modelo": 142601827,
-    "modelo": "ST-15101W-RH"
-  },
-  {
-    "id_modelo": 142601828,
-    "modelo": "ST-15103-LH"
-  },
-  {
-    "id_modelo": 142601829,
-    "modelo": "ST-15103-RH"
-  },
-  {
-    "id_modelo": 142601830,
-    "modelo": "ST-15111-LH"
-  },
-  {
-    "id_modelo": 142601831,
-    "modelo": "ST-15111-RH"
-  },
-  {
-    "id_modelo": 142601832,
-    "modelo": "ST-15112-LH"
-  },
-  {
-    "id_modelo": 142601833,
-    "modelo": "ST-15112-RH"
-  },
-  {
-    "id_modelo": 142601836,
-    "modelo": "ST-15119-F-LH"
-  },
-  {
-    "id_modelo": 142601837,
-    "modelo": "ST-15119-F-RH"
-  },
-  {
     "id_modelo": 142601838,
     "modelo": "ST-15123-LEDE"
-  },
-  {
-    "id_modelo": 142601839,
-    "modelo": "ST-15123LH"
-  },
-  {
-    "id_modelo": 142601840,
-    "modelo": "ST-15123RH"
   },
   {
     "id_modelo": 142601841,
@@ -3992,32 +2200,12 @@
     "modelo": "ST-1584-L"
   },
   {
-    "id_modelo": 142601844,
-    "modelo": "ST-1599-F-LH"
-  },
-  {
     "id_modelo": 142601845,
     "modelo": "ST-1599-FL-L"
   },
   {
     "id_modelo": 142601846,
     "modelo": "ST-1599-FL-R"
-  },
-  {
-    "id_modelo": 142601847,
-    "modelo": "ST-1599-RH"
-  },
-  {
-    "id_modelo": 142601848,
-    "modelo": "ST-1599-LH"
-  },
-  {
-    "id_modelo": 142601849,
-    "modelo": "ST-172W-LEDE"
-  },
-  {
-    "id_modelo": 142601850,
-    "modelo": "ST-173W-LEDE"
   },
   {
     "id_modelo": 142601851,
@@ -4036,20 +2224,12 @@
     "modelo": "ST-201"
   },
   {
-    "id_modelo": 142601855,
-    "modelo": "ST-201LH"
-  },
-  {
     "id_modelo": 142601856,
     "modelo": "ST-2037-AW"
   },
   {
     "id_modelo": 142601857,
     "modelo": "ST-2038-W"
-  },
-  {
-    "id_modelo": 142601858,
-    "modelo": "ST-2040"
   },
   {
     "id_modelo": 142601859,
@@ -4094,18 +2274,6 @@
   {
     "id_modelo": 142601869,
     "modelo": "ST-219-LEDE"
-  },
-  {
-    "id_modelo": 142601870,
-    "modelo": "ST-30099"
-  },
-  {
-    "id_modelo": 142601871,
-    "modelo": "ST-3022"
-  },
-  {
-    "id_modelo": 142601872,
-    "modelo": "ST-3063"
   },
   {
     "id_modelo": 142601873,
@@ -4156,16 +2324,8 @@
     "modelo": "ST-4032LED"
   },
   {
-    "id_modelo": 142601890,
-    "modelo": "ST-5006"
-  },
-  {
     "id_modelo": 142601891,
     "modelo": "ST-5008"
-  },
-  {
-    "id_modelo": 142601892,
-    "modelo": "ST-5009"
   },
   {
     "id_modelo": 142601893,
@@ -4196,10 +2356,6 @@
     "modelo": "ST-5068-1"
   },
   {
-    "id_modelo": 142601902,
-    "modelo": "ST-5060"
-  },
-  {
     "id_modelo": 142601903,
     "modelo": "ST-5068-2"
   },
@@ -4224,14 +2380,6 @@
     "modelo": "ST-5075W"
   },
   {
-    "id_modelo": 142601910,
-    "modelo": "ST-5081"
-  },
-  {
-    "id_modelo": 142601911,
-    "modelo": "ST-6090-LH"
-  },
-  {
     "id_modelo": 142601912,
     "modelo": "ST-6090-LL"
   },
@@ -4244,36 +2392,8 @@
     "modelo": "ST-6090-W-LL"
   },
   {
-    "id_modelo": 142601915,
-    "modelo": "ST-6091-LH"
-  },
-  {
     "id_modelo": 142601916,
     "modelo": "ST-6090-W-LR"
-  },
-  {
-    "id_modelo": 142601917,
-    "modelo": "ST-6091-LL"
-  },
-  {
-    "id_modelo": 142601918,
-    "modelo": "ST-6091-R-LENS"
-  },
-  {
-    "id_modelo": 142601920,
-    "modelo": "ST-6101B-LEDE"
-  },
-  {
-    "id_modelo": 142601921,
-    "modelo": "ST-6105"
-  },
-  {
-    "id_modelo": 142601922,
-    "modelo": "ST-6112-RH"
-  },
-  {
-    "id_modelo": 142601923,
-    "modelo": "ST-6113-LH"
   },
   {
     "id_modelo": 142601924,
@@ -4284,32 +2404,8 @@
     "modelo": "ST-6113-LR"
   },
   {
-    "id_modelo": 142601927,
-    "modelo": "ST-6114-RH"
-  },
-  {
-    "id_modelo": 142601928,
-    "modelo": "ST-6115-GBE-RH"
-  },
-  {
-    "id_modelo": 142601929,
-    "modelo": "ST-6115-GCE-LH"
-  },
-  {
-    "id_modelo": 142601930,
-    "modelo": "ST-6115-GCE-RH"
-  },
-  {
     "id_modelo": 142601931,
     "modelo": "ST-6115-LL"
-  },
-  {
-    "id_modelo": 142601932,
-    "modelo": "ST-6119"
-  },
-  {
-    "id_modelo": 142601934,
-    "modelo": "ST-6127"
   },
   {
     "id_modelo": 142601935,
@@ -4336,10 +2432,6 @@
     "modelo": "ST-6146L-7"
   },
   {
-    "id_modelo": 142601942,
-    "modelo": "ST-6146L-8"
-  },
-  {
     "id_modelo": 142601943,
     "modelo": "ST-6146S-2"
   },
@@ -4360,10 +2452,6 @@
     "modelo": "ST-6146S-CAR-AMBAR"
   },
   {
-    "id_modelo": 142601949,
-    "modelo": "ST-6148"
-  },
-  {
     "id_modelo": 142601950,
     "modelo": "ST-6146S-CAR-TRA-21W"
   },
@@ -4376,14 +2464,6 @@
     "modelo": "ST-6160W-L"
   },
   {
-    "id_modelo": 142601953,
-    "modelo": "ST-6165B-LH"
-  },
-  {
-    "id_modelo": 142601954,
-    "modelo": "ST-6165B-RH"
-  },
-  {
     "id_modelo": 142601955,
     "modelo": "ST-6165W-L"
   },
@@ -4392,16 +2472,8 @@
     "modelo": "ST-6168"
   },
   {
-    "id_modelo": 142601957,
-    "modelo": "ST-6180"
-  },
-  {
     "id_modelo": 142601958,
     "modelo": "ST-6183"
-  },
-  {
-    "id_modelo": 142601959,
-    "modelo": "ST-6181-RH"
   },
   {
     "id_modelo": 142601961,
@@ -4412,16 +2484,8 @@
     "modelo": "ST-6184-LR"
   },
   {
-    "id_modelo": 142601965,
-    "modelo": "ST-6185-LH"
-  },
-  {
     "id_modelo": 142601968,
     "modelo": "ST-6185LR"
-  },
-  {
-    "id_modelo": 142601969,
-    "modelo": "ST-6187"
   },
   {
     "id_modelo": 142601971,
@@ -4432,36 +2496,12 @@
     "modelo": "ST-6192-L"
   },
   {
-    "id_modelo": 142601974,
-    "modelo": "ST-6191W-FRONT"
-  },
-  {
-    "id_modelo": 142601977,
-    "modelo": "ST-6194"
-  },
-  {
-    "id_modelo": 142601978,
-    "modelo": "ST-6207-LH"
-  },
-  {
-    "id_modelo": 142601981,
-    "modelo": "ST-6207W-RH"
-  },
-  {
-    "id_modelo": 142601982,
-    "modelo": "ST-6209-LH"
-  },
-  {
     "id_modelo": 142601983,
     "modelo": "ST-6209-LL"
   },
   {
     "id_modelo": 142601984,
     "modelo": "ST-6209-LR"
-  },
-  {
-    "id_modelo": 142601985,
-    "modelo": "ST-6209-RH"
   },
   {
     "id_modelo": 142601986,
@@ -4484,24 +2524,8 @@
     "modelo": "ST-6219-LL"
   },
   {
-    "id_modelo": 142601992,
-    "modelo": "ST-6219-RH"
-  },
-  {
     "id_modelo": 142601993,
     "modelo": "ST-6219-LRVER"
-  },
-  {
-    "id_modelo": 142601994,
-    "modelo": "ST-6219W-LH"
-  },
-  {
-    "id_modelo": 142601995,
-    "modelo": "ST-6219W-RH"
-  },
-  {
-    "id_modelo": 142601996,
-    "modelo": "ST-6220-LH"
   },
   {
     "id_modelo": 142601997,
@@ -4516,16 +2540,8 @@
     "modelo": "ST-6220W-LL"
   },
   {
-    "id_modelo": 142602000,
-    "modelo": "ST-6220W-LH"
-  },
-  {
     "id_modelo": 142602001,
     "modelo": "ST-6220W-LR"
-  },
-  {
-    "id_modelo": 142602002,
-    "modelo": "ST-6220W-RH"
   },
   {
     "id_modelo": 142602003,
@@ -4540,32 +2556,12 @@
     "modelo": "ST-7008A-LEDE-BLACK"
   },
   {
-    "id_modelo": 142602009,
-    "modelo": "ST-80171 LEDE"
-  },
-  {
-    "id_modelo": 142602012,
-    "modelo": "ST-80185CGA-LED"
-  },
-  {
     "id_modelo": 142602013,
     "modelo": "ST-8046-L"
   },
   {
-    "id_modelo": 142602014,
-    "modelo": "ST-8077"
-  },
-  {
-    "id_modelo": 142602015,
-    "modelo": "ST-8077W"
-  },
-  {
     "id_modelo": 142602016,
     "modelo": "ST-8080W"
-  },
-  {
-    "id_modelo": 142602018,
-    "modelo": "ST-8128"
   },
   {
     "id_modelo": 142602019,
@@ -4578,34 +2574,6 @@
   {
     "id_modelo": 142602022,
     "modelo": "BS-030-LK"
-  },
-  {
-    "id_modelo": 142602023,
-    "modelo": "ASLC-01-YE"
-  },
-  {
-    "id_modelo": 142602024,
-    "modelo": 6542
-  },
-  {
-    "id_modelo": 142602025,
-    "modelo": "ASLC-04-YE"
-  },
-  {
-    "id_modelo": 142602026,
-    "modelo": 11731
-  },
-  {
-    "id_modelo": 142602029,
-    "modelo": "ASEP-11-YE"
-  },
-  {
-    "id_modelo": 142602030,
-    "modelo": 13837
-  },
-  {
-    "id_modelo": 142602031,
-    "modelo": 13838
   },
   {
     "id_modelo": 142602032,
@@ -4640,24 +2608,8 @@
     "modelo": "JY-4460P"
   },
   {
-    "id_modelo": 142602046,
-    "modelo": 11757
-  },
-  {
-    "id_modelo": 142602047,
-    "modelo": 11758
-  },
-  {
     "id_modelo": 142602048,
     "modelo": "ST-12124 LH"
-  },
-  {
-    "id_modelo": 142602049,
-    "modelo": 11760
-  },
-  {
-    "id_modelo": 142602050,
-    "modelo": 9794
   },
   {
     "id_modelo": 142602051,
@@ -4684,34 +2636,6 @@
     "modelo": "MF5-RS76"
   },
   {
-    "id_modelo": 142602057,
-    "modelo": 6606
-  },
-  {
-    "id_modelo": 142602059,
-    "modelo": "ASEP-04-YE"
-  },
-  {
-    "id_modelo": 142602060,
-    "modelo": 13731
-  },
-  {
-    "id_modelo": 142602061,
-    "modelo": 13727
-  },
-  {
-    "id_modelo": 142602062,
-    "modelo": "SV7"
-  },
-  {
-    "id_modelo": 142602063,
-    "modelo": "SV8.5-8-12V10W"
-  },
-  {
-    "id_modelo": 142602065,
-    "modelo": "T-21"
-  },
-  {
     "id_modelo": 142602066,
     "modelo": "T209571"
   },
@@ -4722,26 +2646,6 @@
   {
     "id_modelo": 142602070,
     "modelo": "TYPHOON"
-  },
-  {
-    "id_modelo": 142602071,
-    "modelo": 6602
-  },
-  {
-    "id_modelo": 142602072,
-    "modelo": 13728
-  },
-  {
-    "id_modelo": 142602073,
-    "modelo": 6604
-  },
-  {
-    "id_modelo": 142602074,
-    "modelo": "MB10-9544"
-  },
-  {
-    "id_modelo": 142602075,
-    "modelo": 12107
   },
   {
     "id_modelo": 142602076,
@@ -4764,64 +2668,20 @@
     "modelo": "A-MD002"
   },
   {
-    "id_modelo": 142602083,
-    "modelo": "E8B9900S2B"
-  },
-  {
-    "id_modelo": 142602085,
-    "modelo": "E8A9910S2B"
-  },
-  {
-    "id_modelo": 142602086,
-    "modelo": "E8A9900S2B"
-  },
-  {
-    "id_modelo": 142602088,
-    "modelo": "E8A9930S2B"
+    "id_modelo": 142602084,
+    "modelo": "E8B9910S2B"
   },
   {
     "id_modelo": 142602091,
     "modelo": "W001-02 R/C-KY/N1"
   },
   {
-    "id_modelo": 142602092,
-    "modelo": "W001-L-E/MR-N1"
-  },
-  {
-    "id_modelo": 142602093,
-    "modelo": "W001-R-E/MR-N1"
-  },
-  {
     "id_modelo": 142602095,
     "modelo": "WL-002W-LEDE"
   },
   {
-    "id_modelo": 142602096,
-    "modelo": "WB150-T-E"
-  },
-  {
-    "id_modelo": 142602097,
-    "modelo": "WL001-W"
-  },
-  {
-    "id_modelo": 142602098,
-    "modelo": "601S1M095B"
-  },
-  {
-    "id_modelo": 142602099,
-    "modelo": 6568
-  },
-  {
     "id_modelo": 142602101,
     "modelo": "Y-2058"
-  },
-  {
-    "id_modelo": 142602104,
-    "modelo": "ST-12100DA-LH"
-  },
-  {
-    "id_modelo": 142602105,
-    "modelo": "ST-12100DA-RH"
   },
   {
     "id_modelo": 142602106,
@@ -4832,24 +2692,8 @@
     "modelo": "ASCG-15-BL"
   },
   {
-    "id_modelo": 142602108,
-    "modelo": "ASLC-02-BL"
-  },
-  {
     "id_modelo": 142602110,
     "modelo": 6614
-  },
-  {
-    "id_modelo": 142602111,
-    "modelo": "ST-8080B-LH"
-  },
-  {
-    "id_modelo": 142602112,
-    "modelo": "ST-8080B-RH"
-  },
-  {
-    "id_modelo": 142602113,
-    "modelo": "M428"
   },
   {
     "id_modelo": 142602114,
@@ -4880,10 +2724,6 @@
     "modelo": "MBS2224A"
   },
   {
-    "id_modelo": 142602121,
-    "modelo": "ST-05003"
-  },
-  {
     "id_modelo": 142602122,
     "modelo": "BS-006"
   },
@@ -4894,18 +2734,6 @@
   {
     "id_modelo": 142602124,
     "modelo": "RSK2-TITANIUM"
-  },
-  {
-    "id_modelo": 142602125,
-    "modelo": "M8019"
-  },
-  {
-    "id_modelo": 142602128,
-    "modelo": "C8-SPY037"
-  },
-  {
-    "id_modelo": 142602129,
-    "modelo": "C8-SPY013"
   },
   {
     "id_modelo": 142602130,
@@ -4926,10 +2754,6 @@
   {
     "id_modelo": 142602134,
     "modelo": "908-RED"
-  },
-  {
-    "id_modelo": 142602135,
-    "modelo": "MF5-908"
   },
   {
     "id_modelo": 142602137,
@@ -4964,30 +2788,6 @@
     "modelo": "ST-15130 LH CLEAR"
   },
   {
-    "id_modelo": 142602145,
-    "modelo": 12079
-  },
-  {
-    "id_modelo": 142602147,
-    "modelo": 12080
-  },
-  {
-    "id_modelo": 142602148,
-    "modelo": 9852
-  },
-  {
-    "id_modelo": 142602149,
-    "modelo": 9853
-  },
-  {
-    "id_modelo": 142602150,
-    "modelo": "ST-15128-LH"
-  },
-  {
-    "id_modelo": 142602151,
-    "modelo": "ST-15128-RH"
-  },
-  {
     "id_modelo": 142602152,
     "modelo": "MF5-915"
   },
@@ -5000,32 +2800,8 @@
     "modelo": "MF5-915"
   },
   {
-    "id_modelo": 142602156,
-    "modelo": "PT10609"
-  },
-  {
-    "id_modelo": 142602158,
-    "modelo": 6517
-  },
-  {
-    "id_modelo": 142602160,
-    "modelo": "FY-205-1-LEFT"
-  },
-  {
-    "id_modelo": 142602161,
-    "modelo": "C8-SPY040"
-  },
-  {
-    "id_modelo": 142602162,
-    "modelo": "M430"
-  },
-  {
     "id_modelo": 142602164,
     "modelo": 8374
-  },
-  {
-    "id_modelo": 142602165,
-    "modelo": "ASEP-07-BL"
   },
   {
     "id_modelo": 142602166,
@@ -5044,16 +2820,8 @@
     "modelo": "ST-5080AC-LEDE-2"
   },
   {
-    "id_modelo": 142602171,
-    "modelo": "ST-15124C-LEDE-LH"
-  },
-  {
     "id_modelo": 142602175,
     "modelo": "YM-1603ELL"
-  },
-  {
-    "id_modelo": 142602176,
-    "modelo": "YM-1603LHW"
   },
   {
     "id_modelo": 142602177,
@@ -5078,38 +2846,6 @@
   {
     "id_modelo": 142602184,
     "modelo": "YM-1604LLW"
-  },
-  {
-    "id_modelo": 142602185,
-    "modelo": "YM-1609-RH"
-  },
-  {
-    "id_modelo": 142602186,
-    "modelo": "YM-1609E-LH"
-  },
-  {
-    "id_modelo": 142602187,
-    "modelo": "YM-1609WLH"
-  },
-  {
-    "id_modelo": 142602188,
-    "modelo": "YM-1609WRH"
-  },
-  {
-    "id_modelo": 142602189,
-    "modelo": "YM-1610-LH"
-  },
-  {
-    "id_modelo": 142602190,
-    "modelo": "YM-1610-RH"
-  },
-  {
-    "id_modelo": 142602191,
-    "modelo": "YM-1610ELHW"
-  },
-  {
-    "id_modelo": 142602192,
-    "modelo": "YM-1610ERHW"
   },
   {
     "id_modelo": 142602193,
@@ -5188,10 +2924,6 @@
     "modelo": "YM-1908LA-2SP"
   },
   {
-    "id_modelo": 142602213,
-    "modelo": "YM-2148E"
-  },
-  {
     "id_modelo": 142602214,
     "modelo": "YM-2165LL"
   },
@@ -5224,20 +2956,8 @@
     "modelo": "YM-2175W"
   },
   {
-    "id_modelo": 142602225,
-    "modelo": "YM-2255E"
-  },
-  {
     "id_modelo": 142602226,
     "modelo": "YM-2336ELEDR"
-  },
-  {
-    "id_modelo": 142602228,
-    "modelo": "YM-2526E"
-  },
-  {
-    "id_modelo": 142602229,
-    "modelo": "YM-2526ESW/R"
   },
   {
     "id_modelo": 142602230,
@@ -5254,10 +2974,6 @@
   {
     "id_modelo": 142602234,
     "modelo": "YM-2609-LRW"
-  },
-  {
-    "id_modelo": 142602235,
-    "modelo": "YM-2609LL"
   },
   {
     "id_modelo": 142602236,
@@ -5280,36 +2996,8 @@
     "modelo": "YM-2710WE-LR"
   },
   {
-    "id_modelo": 142602242,
-    "modelo": "YM-5501"
-  },
-  {
-    "id_modelo": 142602243,
-    "modelo": "YM-5502"
-  },
-  {
-    "id_modelo": 142602244,
-    "modelo": "YM-5504"
-  },
-  {
-    "id_modelo": 142602245,
-    "modelo": "YM-5503"
-  },
-  {
-    "id_modelo": 142602246,
-    "modelo": "YM-5505"
-  },
-  {
-    "id_modelo": 142602248,
-    "modelo": "YM-5507"
-  },
-  {
-    "id_modelo": 142602250,
-    "modelo": "YM-5509"
-  },
-  {
-    "id_modelo": 142602251,
-    "modelo": "YM-5510"
+    "id_modelo": 142566858,
+    "modelo": 249.046
   },
   {
     "id_modelo": 142599174,
@@ -5364,56 +3052,12 @@
     "modelo": "2.300.534"
   },
   {
-    "id_modelo": 142599360,
-    "modelo": 241.749
-  },
-  {
-    "id_modelo": 142599361,
-    "modelo": 241.753
-  },
-  {
-    "id_modelo": 142599372,
-    "modelo": 242.189
-  },
-  {
-    "id_modelo": 142599390,
-    "modelo": 242.428
-  },
-  {
-    "id_modelo": 142599402,
-    "modelo": 243.111
-  },
-  {
-    "id_modelo": 142599403,
-    "modelo": 243.112
-  },
-  {
-    "id_modelo": 142599404,
-    "modelo": 243.113
-  },
-  {
-    "id_modelo": 142599405,
-    "modelo": 243.114
-  },
-  {
     "id_modelo": 142599408,
     "modelo": "2.440.131"
   },
   {
     "id_modelo": 142599409,
     "modelo": "2.440.132"
-  },
-  {
-    "id_modelo": 142599416,
-    "modelo": "248.037.2"
-  },
-  {
-    "id_modelo": 142599424,
-    "modelo": 249.068
-  },
-  {
-    "id_modelo": 142599425,
-    "modelo": 249.069
   },
   {
     "id_modelo": 142599450,
@@ -5424,28 +3068,8 @@
     "modelo": "3.800.006"
   },
   {
-    "id_modelo": 142599500,
-    "modelo": "928.830.020"
-  },
-  {
-    "id_modelo": 142599508,
-    "modelo": "950.830.056"
-  },
-  {
-    "id_modelo": 142599510,
-    "modelo": "950.830.054"
-  },
-  {
     "id_modelo": 142599512,
     "modelo": "955.520.021"
-  },
-  {
-    "id_modelo": 142599513,
-    "modelo": "955.520.009"
-  },
-  {
-    "id_modelo": 142599515,
-    "modelo": "955.520.014"
   },
   {
     "id_modelo": 142599516,
@@ -5456,316 +3080,12 @@
     "modelo": "3.430.023"
   },
   {
-    "id_modelo": 142599525,
-    "modelo": "955.830.021"
-  },
-  {
-    "id_modelo": 142599527,
-    "modelo": "955.830.030"
-  },
-  {
-    "id_modelo": 142599529,
-    "modelo": "955.520.024"
-  },
-  {
     "id_modelo": 142599530,
     "modelo": "2.440.584"
   },
   {
-    "id_modelo": 142598273,
-    "modelo": "379-923S"
-  },
-  {
-    "id_modelo": 142598275,
-    "modelo": "379-120M"
-  },
-  {
-    "id_modelo": 142598276,
-    "modelo": "379-124S"
-  },
-  {
-    "id_modelo": 142598277,
-    "modelo": "379-921L"
-  },
-  {
-    "id_modelo": 142598279,
-    "modelo": "379-221YL"
-  },
-  {
-    "id_modelo": 142598281,
-    "modelo": "379-220YL"
-  },
-  {
-    "id_modelo": 142598282,
-    "modelo": "379-922L"
-  },
-  {
-    "id_modelo": 142598283,
-    "modelo": "379-13032"
-  },
-  {
-    "id_modelo": 142598285,
-    "modelo": "379-920L"
-  },
-  {
-    "id_modelo": 142598287,
-    "modelo": "379-210Y2XS"
-  },
-  {
-    "id_modelo": 142598289,
-    "modelo": "379-911YL"
-  },
-  {
-    "id_modelo": 142598291,
-    "modelo": "379-93330"
-  },
-  {
-    "id_modelo": 142598293,
-    "modelo": "379-911S"
-  },
-  {
-    "id_modelo": 142598294,
-    "modelo": "379-913YXS"
-  },
-  {
-    "id_modelo": 142598296,
-    "modelo": "379-912YL"
-  },
-  {
-    "id_modelo": 142598300,
-    "modelo": "379-23220"
-  },
-  {
-    "id_modelo": 142598303,
-    "modelo": "379-23122"
-  },
-  {
-    "id_modelo": 142598305,
-    "modelo": "379-93130"
-  },
-  {
-    "id_modelo": 142598306,
-    "modelo": "379-93034"
-  },
-  {
     "id_modelo": 142598307,
     "modelo": "379-23022"
-  },
-  {
-    "id_modelo": 142598308,
-    "modelo": "379-93230"
-  },
-  {
-    "id_modelo": 142598311,
-    "modelo": "379-23326"
-  },
-  {
-    "id_modelo": 142598339,
-    "modelo": "379-424YM"
-  },
-  {
-    "id_modelo": 142598346,
-    "modelo": "379-423M"
-  },
-  {
-    "id_modelo": 142598347,
-    "modelo": "379-525YL"
-  },
-  {
-    "id_modelo": 142598353,
-    "modelo": "379-410M"
-  },
-  {
-    "id_modelo": 142598357,
-    "modelo": "379-4212X"
-  },
-  {
-    "id_modelo": 142598358,
-    "modelo": "379-4112X"
-  },
-  {
-    "id_modelo": 142598360,
-    "modelo": "379-43426"
-  },
-  {
-    "id_modelo": 142598365,
-    "modelo": "379-73430"
-  },
-  {
-    "id_modelo": 142598366,
-    "modelo": "379-720X"
-  },
-  {
-    "id_modelo": 142598368,
-    "modelo": "379-7212X"
-  },
-  {
-    "id_modelo": 142598369,
-    "modelo": "379-4222X"
-  },
-  {
-    "id_modelo": 142598378,
-    "modelo": "379-713X"
-  },
-  {
-    "id_modelo": 142598380,
-    "modelo": "379-712L"
-  },
-  {
-    "id_modelo": 142598383,
-    "modelo": "379-723X"
-  },
-  {
-    "id_modelo": 142598385,
-    "modelo": "379-73030"
-  },
-  {
-    "id_modelo": 142598388,
-    "modelo": "379-53524"
-  },
-  {
-    "id_modelo": 142598389,
-    "modelo": "379-724L"
-  },
-  {
-    "id_modelo": 142598390,
-    "modelo": "379-710L"
-  },
-  {
-    "id_modelo": 142598391,
-    "modelo": "379-73130"
-  },
-  {
-    "id_modelo": 142598392,
-    "modelo": "379-7172X"
-  },
-  {
-    "id_modelo": 142598394,
-    "modelo": "379-73230"
-  },
-  {
-    "id_modelo": 142598397,
-    "modelo": "379-722X"
-  },
-  {
-    "id_modelo": 142598400,
-    "modelo": "379-73330"
-  },
-  {
-    "id_modelo": 142602252,
-    "modelo": "2115-HS"
-  },
-  {
-    "id_modelo": 142602254,
-    "modelo": "RACE-SPX-2"
-  },
-  {
-    "id_modelo": 142602265,
-    "modelo": "N-RIVETMG-BLK"
-  },
-  {
-    "id_modelo": 142602270,
-    "modelo": "244730S320"
-  },
-  {
-    "id_modelo": 142602275,
-    "modelo": "225860S520"
-  },
-  {
-    "id_modelo": 142602278,
-    "modelo": "228461S720"
-  },
-  {
-    "id_modelo": 142602279,
-    "modelo": "231030S320"
-  },
-  {
-    "id_modelo": 142602284,
-    "modelo": "234840S320"
-  },
-  {
-    "id_modelo": 142602287,
-    "modelo": "RS12-NB010"
-  },
-  {
-    "id_modelo": 142602296,
-    "modelo": "2388-144-A"
-  },
-  {
-    "id_modelo": 142602298,
-    "modelo": 2176703
-  },
-  {
-    "id_modelo": 142602301,
-    "modelo": 2376513
-  },
-  {
-    "id_modelo": 142602312,
-    "modelo": "231032D320"
-  },
-  {
-    "id_modelo": 142602327,
-    "modelo": "225830R520-LMA"
-  },
-  {
-    "id_modelo": 142602333,
-    "modelo": "221210R520"
-  },
-  {
-    "id_modelo": 142602334,
-    "modelo": 2388713
-  },
-  {
-    "id_modelo": 142602338,
-    "modelo": "228451S720"
-  },
-  {
-    "id_modelo": 142602339,
-    "modelo": "228452S320"
-  },
-  {
-    "id_modelo": 142602341,
-    "modelo": 2176503
-  },
-  {
-    "id_modelo": 142602342,
-    "modelo": 2388513
-  },
-  {
-    "id_modelo": 142602343,
-    "modelo": "338800C350"
-  },
-  {
-    "id_modelo": 142602344,
-    "modelo": 2375513
-  },
-  {
-    "id_modelo": 142602345,
-    "modelo": "234810D321"
-  },
-  {
-    "id_modelo": 142602347,
-    "modelo": "234830D320"
-  },
-  {
-    "id_modelo": 142602348,
-    "modelo": 3115007350
-  },
-  {
-    "id_modelo": 142602349,
-    "modelo": "22843AR520"
-  },
-  {
-    "id_modelo": 142602351,
-    "modelo": "225840R520"
-  },
-  {
-    "id_modelo": 142602352,
-    "modelo": "225841R720"
-  },
-  {
-    "id_modelo": 142599551,
-    "modelo": "BFG BOLTS"
   },
   {
     "id_modelo": 142599553,
@@ -5868,64 +3188,8 @@
     "modelo": "EB01-R-170"
   },
   {
-    "id_modelo": 142599578,
-    "modelo": "NWA38T"
-  },
-  {
-    "id_modelo": 142599579,
-    "modelo": "NWA44T"
-  },
-  {
-    "id_modelo": 142599580,
-    "modelo": "NWA40T"
-  },
-  {
-    "id_modelo": 142599581,
-    "modelo": "NWA46T"
-  },
-  {
-    "id_modelo": 142599582,
-    "modelo": "NWS16T"
-  },
-  {
-    "id_modelo": 142599583,
-    "modelo": "NWS18T"
-  },
-  {
-    "id_modelo": 142599584,
-    "modelo": "NWS36T"
-  },
-  {
-    "id_modelo": 142599585,
-    "modelo": "NWA48T"
-  },
-  {
-    "id_modelo": 142599586,
-    "modelo": "NWS34T"
-  },
-  {
-    "id_modelo": 142599587,
-    "modelo": "PRO42T"
-  },
-  {
-    "id_modelo": 142599588,
-    "modelo": "EB07-L-170"
-  },
-  {
-    "id_modelo": 142599589,
-    "modelo": "PRO44T"
-  },
-  {
-    "id_modelo": 142599590,
-    "modelo": "EB07-R-170"
-  },
-  {
-    "id_modelo": 142599592,
-    "modelo": "JIS BOLTS"
-  },
-  {
     "id_modelo": 142599593,
-    "modelo": "OUNCE-421C-N-152-50/"
+    "modelo": "RPL-421-152-48/32T"
   },
   {
     "id_modelo": 142599594,
@@ -5940,156 +3204,148 @@
     "modelo": "RPX-FD100A-TT-172.5-"
   },
   {
-    "id_modelo": 142599597,
-    "modelo": "S10-45.5"
+    "id_modelo": 141519909,
+    "modelo": "226-015"
   },
   {
-    "id_modelo": 142599598,
-    "modelo": "S13-49"
+    "id_modelo": 141519916,
+    "modelo": "207-175H"
   },
   {
-    "id_modelo": 142599599,
-    "modelo": "S14-47.5"
+    "id_modelo": 141519925,
+    "modelo": "315-0570"
   },
   {
-    "id_modelo": 142599600,
-    "modelo": "S16-53"
+    "id_modelo": 141519944,
+    "modelo": "315-056"
   },
   {
-    "id_modelo": 142599601,
-    "modelo": "S17-5-45"
+    "id_modelo": 141519950,
+    "modelo": "204-363"
   },
   {
-    "id_modelo": 142599603,
-    "modelo": "S2-2-52"
+    "id_modelo": 141671473,
+    "modelo": 1108051
   },
   {
-    "id_modelo": 142599604,
-    "modelo": "S7-1-49"
+    "id_modelo": 141671533,
+    "modelo": 1107948
   },
   {
-    "id_modelo": 142599607,
-    "modelo": "SML BOLTS"
+    "id_modelo": 142274979,
+    "modelo": "280-735HP"
   },
   {
-    "id_modelo": 142597844,
-    "modelo": "AX1734"
+    "id_modelo": 142274991,
+    "modelo": 1139938
   },
   {
-    "id_modelo": 142598055,
-    "modelo": "10.4446.53"
+    "id_modelo": 142275011,
+    "modelo": 1140741
   },
   {
-    "id_modelo": 142598063,
-    "modelo": "910.4776.01"
+    "id_modelo": 142275050,
+    "modelo": 1140743
   },
   {
-    "id_modelo": 142598488,
-    "modelo": "401-4231HS"
+    "id_modelo": 142275058,
+    "modelo": "301-458"
   },
   {
-    "id_modelo": 142598489,
-    "modelo": "401-4211HS"
+    "id_modelo": 142275071,
+    "modelo": 1140730
   },
   {
-    "id_modelo": 142598405,
-    "modelo": "GM-04LT"
+    "id_modelo": 142275109,
+    "modelo": 1139437
+  },
+  {
+    "id_modelo": 142275121,
+    "modelo": 1139479
+  },
+  {
+    "id_modelo": 142275130,
+    "modelo": 1139520
+  },
+  {
+    "id_modelo": 142275136,
+    "modelo": 1139543
+  },
+  {
+    "id_modelo": 142275140,
+    "modelo": 1139547
+  },
+  {
+    "id_modelo": 142275176,
+    "modelo": 1139815
+  },
+  {
+    "id_modelo": 142275186,
+    "modelo": 1139835
+  },
+  {
+    "id_modelo": 142275228,
+    "modelo": 1139754
+  },
+  {
+    "id_modelo": 142275281,
+    "modelo": 1139820
+  },
+  {
+    "id_modelo": 142275311,
+    "modelo": "401-3080HS"
+  },
+  {
+    "id_modelo": 142275315,
+    "modelo": "401-3241HS"
+  },
+  {
+    "id_modelo": 142275317,
+    "modelo": "401-3301HS"
+  },
+  {
+    "id_modelo": 142275369,
+    "modelo": 1139371
+  },
+  {
+    "id_modelo": 142275406,
+    "modelo": 1140954
+  },
+  {
+    "id_modelo": 142275423,
+    "modelo": 1139467
+  },
+  {
+    "id_modelo": 142275448,
+    "modelo": 1139433
+  },
+  {
+    "id_modelo": 142275457,
+    "modelo": 1139814
+  },
+  {
+    "id_modelo": 142275480,
+    "modelo": 1139447
+  },
+  {
+    "id_modelo": 142275553,
+    "modelo": 1139876
+  },
+  {
+    "id_modelo": 142275565,
+    "modelo": 1139694
+  },
+  {
+    "id_modelo": 142275567,
+    "modelo": 1139719
   },
   {
     "id_modelo": 142598408,
     "modelo": "GCJ-01"
   },
   {
-    "id_modelo": 142598433,
-    "modelo": "GF-65SE"
-  },
-  {
-    "id_modelo": 142598442,
-    "modelo": "GF-2630"
-  },
-  {
-    "id_modelo": 142597856,
-    "modelo": "B2-1799"
-  },
-  {
-    "id_modelo": 142597862,
-    "modelo": "BA-810"
-  },
-  {
-    "id_modelo": 142597864,
-    "modelo": "B4-1243"
-  },
-  {
-    "id_modelo": 142597869,
-    "modelo": "S01-002"
-  },
-  {
-    "id_modelo": 142597870,
-    "modelo": "B1-1022"
-  },
-  {
-    "id_modelo": 142597875,
-    "modelo": "S04-008"
-  },
-  {
-    "id_modelo": 142597876,
-    "modelo": "S04-002"
-  },
-  {
-    "id_modelo": 142597882,
-    "modelo": "S04-019"
-  },
-  {
-    "id_modelo": 142597884,
-    "modelo": "S05-011"
-  },
-  {
-    "id_modelo": 142597886,
-    "modelo": "S05-013"
-  },
-  {
-    "id_modelo": 142597894,
-    "modelo": "S08-017"
-  },
-  {
-    "id_modelo": 142597899,
-    "modelo": "S08-030"
-  },
-  {
-    "id_modelo": 142597901,
-    "modelo": "S09-009"
-  },
-  {
-    "id_modelo": 142597904,
-    "modelo": "S09-011"
-  },
-  {
-    "id_modelo": 142597908,
-    "modelo": "S05-038"
-  },
-  {
-    "id_modelo": 142597910,
-    "modelo": "S17-012"
-  },
-  {
-    "id_modelo": 142597912,
-    "modelo": "S05-044"
-  },
-  {
-    "id_modelo": 142597913,
-    "modelo": "S18-003"
-  },
-  {
-    "id_modelo": 142597916,
-    "modelo": "S08-029"
-  },
-  {
-    "id_modelo": 142597917,
-    "modelo": "S05-041"
-  },
-  {
-    "id_modelo": 142597918,
-    "modelo": "S08-023"
+    "id_modelo": 142602336,
+    "modelo": "2387500-SA"
   },
   {
     "id_modelo": 142600095,
@@ -6100,92 +3356,220 @@
     "modelo": 60684021
   },
   {
-    "id_modelo": 142599994,
-    "modelo": "4019003-001-OSFM"
+    "id_modelo": 142422921,
+    "modelo": "FM01212RACE"
   },
   {
-    "id_modelo": 142599996,
-    "modelo": "4019002-001-S/M"
+    "id_modelo": 142422945,
+    "modelo": "FM268/04"
   },
   {
-    "id_modelo": 142599997,
-    "modelo": "4019001-001-S/M"
+    "id_modelo": 142422951,
+    "modelo": "FM456/04"
   },
   {
-    "id_modelo": 140954288,
-    "modelo": "01553-0E"
+    "id_modelo": 142422952,
+    "modelo": "FM01212"
   },
   {
-    "id_modelo": 142600106,
-    "modelo": 1812
+    "id_modelo": 142600015,
+    "modelo": "302-291"
   },
   {
-    "id_modelo": 142600109,
-    "modelo": "02-0468"
+    "id_modelo": 142329798,
+    "modelo": "05-0105"
   },
   {
-    "id_modelo": 142600112,
-    "modelo": 371
+    "id_modelo": 142329827,
+    "modelo": "4KG-26302-00-00"
   },
   {
-    "id_modelo": 142600115,
-    "modelo": "04-0126"
+    "id_modelo": 142372585,
+    "modelo": 10035
   },
   {
-    "id_modelo": 142600118,
-    "modelo": "04-0506"
+    "id_modelo": 142372590,
+    "modelo": 2350
   },
   {
-    "id_modelo": 142600119,
-    "modelo": "04-0544"
+    "id_modelo": 142372610,
+    "modelo": 4016
   },
   {
-    "id_modelo": 142600120,
-    "modelo": "04-0606"
+    "id_modelo": 142372669,
+    "modelo": 10552
   },
   {
-    "id_modelo": 142600121,
-    "modelo": "04-0615"
+    "id_modelo": 142372706,
+    "modelo": 2411
   },
   {
-    "id_modelo": 142600122,
-    "modelo": "04-0636"
+    "id_modelo": 142372713,
+    "modelo": 14669
   },
   {
-    "id_modelo": 142600123,
-    "modelo": "04-0677"
+    "id_modelo": 142372723,
+    "modelo": "ASC-508"
   },
   {
-    "id_modelo": 142600124,
-    "modelo": "04-0698"
+    "id_modelo": 142372725,
+    "modelo": "MT152-OT049"
   },
   {
-    "id_modelo": 142600125,
-    "modelo": "04-0708"
+    "id_modelo": 142450958,
+    "modelo": "02-0131"
   },
   {
-    "id_modelo": 142600127,
-    "modelo": "04-0772"
+    "id_modelo": 142450969,
+    "modelo": 216
   },
   {
-    "id_modelo": 142600128,
-    "modelo": "04-0794"
+    "id_modelo": 142450998,
+    "modelo": "03-0409"
   },
   {
-    "id_modelo": 142600129,
-    "modelo": "04-0807"
+    "id_modelo": 142451012,
+    "modelo": 338
   },
   {
-    "id_modelo": 142600130,
-    "modelo": "04-0860"
+    "id_modelo": 142451031,
+    "modelo": "04-0190"
   },
   {
-    "id_modelo": 142600131,
-    "modelo": "04-0824"
+    "id_modelo": 142451037,
+    "modelo": "04-0232"
   },
   {
-    "id_modelo": 142600132,
-    "modelo": "04-0888"
+    "id_modelo": 142451043,
+    "modelo": 418
+  },
+  {
+    "id_modelo": 142451059,
+    "modelo": "05-0162"
+  },
+  {
+    "id_modelo": 142451072,
+    "modelo": "05-0342"
+  },
+  {
+    "id_modelo": 142451084,
+    "modelo": "10-0062"
+  },
+  {
+    "id_modelo": 142451093,
+    "modelo": 1643337
+  },
+  {
+    "id_modelo": 142451094,
+    "modelo": 1643700
+  },
+  {
+    "id_modelo": 142451109,
+    "modelo": "1LN-83550-04-00"
+  },
+  {
+    "id_modelo": 142451123,
+    "modelo": "22870-MBT-D20"
+  },
+  {
+    "id_modelo": 142451130,
+    "modelo": "22870-MY5-610"
+  },
+  {
+    "id_modelo": 142451202,
+    "modelo": 3030806
+  },
+  {
+    "id_modelo": 142451208,
+    "modelo": 3030840
+  },
+  {
+    "id_modelo": 142451216,
+    "modelo": 3030871
+  },
+  {
+    "id_modelo": 142451217,
+    "modelo": 3030878
+  },
+  {
+    "id_modelo": 142451218,
+    "modelo": 3030876
+  },
+  {
+    "id_modelo": 142451227,
+    "modelo": 3030916
+  },
+  {
+    "id_modelo": 142451234,
+    "modelo": 3030952
+  },
+  {
+    "id_modelo": 142451238,
+    "modelo": 3030965
+  },
+  {
+    "id_modelo": 142451241,
+    "modelo": 3030972
+  },
+  {
+    "id_modelo": 142451249,
+    "modelo": 3031010
+  },
+  {
+    "id_modelo": 142451256,
+    "modelo": 3031065
+  },
+  {
+    "id_modelo": 142451284,
+    "modelo": "3BN-26635-00-00"
+  },
+  {
+    "id_modelo": 142451302,
+    "modelo": 5125
+  },
+  {
+    "id_modelo": 142451310,
+    "modelo": 5342
+  },
+  {
+    "id_modelo": 142451319,
+    "modelo": "54011-0082"
+  },
+  {
+    "id_modelo": 142451323,
+    "modelo": "54011-1193"
+  },
+  {
+    "id_modelo": 142451334,
+    "modelo": "54012-0116"
+  },
+  {
+    "id_modelo": 142451335,
+    "modelo": "54012-0117"
+  },
+  {
+    "id_modelo": 142451339,
+    "modelo": 5425
+  },
+  {
+    "id_modelo": 142451395,
+    "modelo": 800092218
+  },
+  {
+    "id_modelo": 142451469,
+    "modelo": "810671HC"
+  },
+  {
+    "id_modelo": 142451559,
+    "modelo": "L14-0123"
+  },
+  {
+    "id_modelo": 142451563,
+    "modelo": "L15-101"
+  },
+  {
+    "id_modelo": 142517839,
+    "modelo": 1059429
   },
   {
     "id_modelo": 142600133,
@@ -6194,26 +3578,6 @@
   {
     "id_modelo": 142600134,
     "modelo": 409476
-  },
-  {
-    "id_modelo": 142600137,
-    "modelo": "05-0081"
-  },
-  {
-    "id_modelo": 142600138,
-    "modelo": "05-0092"
-  },
-  {
-    "id_modelo": 142600139,
-    "modelo": "05-0101"
-  },
-  {
-    "id_modelo": 142600140,
-    "modelo": "05-0174"
-  },
-  {
-    "id_modelo": 142600144,
-    "modelo": "05-0361"
   },
   {
     "id_modelo": 142600145,
@@ -6240,10 +3604,6 @@
     "modelo": 503657
   },
   {
-    "id_modelo": 142600153,
-    "modelo": "06-0713"
-  },
-  {
     "id_modelo": 142600156,
     "modelo": 600044
   },
@@ -6264,132 +3624,12 @@
     "modelo": 830
   },
   {
-    "id_modelo": 142600162,
-    "modelo": 10181
-  },
-  {
-    "id_modelo": 142600190,
-    "modelo": "17910-KRN-A40"
-  },
-  {
-    "id_modelo": 142600191,
-    "modelo": "17910-MBT-610"
-  },
-  {
-    "id_modelo": 142600203,
-    "modelo": 2375
-  },
-  {
-    "id_modelo": 142600216,
-    "modelo": 2604127
-  },
-  {
-    "id_modelo": 142600218,
-    "modelo": 2604128
-  },
-  {
-    "id_modelo": 142600223,
-    "modelo": 51004
-  },
-  {
-    "id_modelo": 142600226,
-    "modelo": 51006
-  },
-  {
-    "id_modelo": 142600227,
-    "modelo": 51007
-  },
-  {
-    "id_modelo": 142600228,
-    "modelo": 51009
-  },
-  {
-    "id_modelo": 142600230,
-    "modelo": 51812
+    "id_modelo": 142600169,
+    "modelo": "150010075TEC"
   },
   {
     "id_modelo": 142600231,
     "modelo": 5140
-  },
-  {
-    "id_modelo": 142600234,
-    "modelo": 5375
-  },
-  {
-    "id_modelo": 142600235,
-    "modelo": 51507
-  },
-  {
-    "id_modelo": 142600236,
-    "modelo": "54012-0118"
-  },
-  {
-    "id_modelo": 142600241,
-    "modelo": 5443
-  },
-  {
-    "id_modelo": 142600242,
-    "modelo": "578-000-03A"
-  },
-  {
-    "id_modelo": 142600243,
-    "modelo": 5828
-  },
-  {
-    "id_modelo": 142600244,
-    "modelo": 5830
-  },
-  {
-    "id_modelo": 142600247,
-    "modelo": "58300-26F00"
-  },
-  {
-    "id_modelo": 142600250,
-    "modelo": "58300-49G00"
-  },
-  {
-    "id_modelo": 142600251,
-    "modelo": 5831
-  },
-  {
-    "id_modelo": 142600259,
-    "modelo": 876
-  },
-  {
-    "id_modelo": 142600269,
-    "modelo": "ASOT-336"
-  },
-  {
-    "id_modelo": 142600270,
-    "modelo": "ASOT-336BL"
-  },
-  {
-    "id_modelo": 142600271,
-    "modelo": "ASOT-336OR"
-  },
-  {
-    "id_modelo": 142600276,
-    "modelo": "BL-41K01"
-  },
-  {
-    "id_modelo": 142600277,
-    "modelo": "BL-41S01"
-  },
-  {
-    "id_modelo": 142600279,
-    "modelo": "BL-43W01"
-  },
-  {
-    "id_modelo": 142600285,
-    "modelo": "BL-48K01"
-  },
-  {
-    "id_modelo": 142600286,
-    "modelo": "BL-48W02"
-  },
-  {
-    "id_modelo": 142600287,
-    "modelo": "BL-48Z01"
   },
   {
     "id_modelo": 142600293,
@@ -6408,48 +3648,8 @@
     "modelo": "E2082598"
   },
   {
-    "id_modelo": 142600307,
-    "modelo": "FSD-001"
-  },
-  {
     "id_modelo": 142600308,
     "modelo": "E2082599"
-  },
-  {
-    "id_modelo": 142600309,
-    "modelo": "FSD-002"
-  },
-  {
-    "id_modelo": 142600311,
-    "modelo": "FSD-009"
-  },
-  {
-    "id_modelo": 142600318,
-    "modelo": "FSD-035"
-  },
-  {
-    "id_modelo": 142600321,
-    "modelo": "FSD-042R"
-  },
-  {
-    "id_modelo": 142600330,
-    "modelo": "J1.8"
-  },
-  {
-    "id_modelo": 142600331,
-    "modelo": 2228
-  },
-  {
-    "id_modelo": 142600332,
-    "modelo": "K1.4"
-  },
-  {
-    "id_modelo": 142600334,
-    "modelo": "K1.8"
-  },
-  {
-    "id_modelo": 142600335,
-    "modelo": "1402529A"
   },
   {
     "id_modelo": 142600336,
@@ -6458,18 +3658,6 @@
   {
     "id_modelo": 142600337,
     "modelo": "L15-104"
-  },
-  {
-    "id_modelo": 142600343,
-    "modelo": "L35-638"
-  },
-  {
-    "id_modelo": 142600344,
-    "modelo": "L35-639"
-  },
-  {
-    "id_modelo": 142600375,
-    "modelo": "MT209-OT028"
   },
   {
     "id_modelo": 142600378,
@@ -6484,164 +3672,20 @@
     "modelo": "MT209-OT007"
   },
   {
-    "id_modelo": 142600384,
-    "modelo": "PSR-DT125LC-STD"
-  },
-  {
     "id_modelo": 142600399,
     "modelo": "B502A"
   },
   {
-    "id_modelo": 142600412,
-    "modelo": 2823
-  },
-  {
-    "id_modelo": 142600416,
-    "modelo": "151060001TEC"
-  },
-  {
-    "id_modelo": 142600423,
-    "modelo": "1402499C"
-  },
-  {
-    "id_modelo": 142600424,
-    "modelo": "MT209-YA010"
-  },
-  {
-    "id_modelo": 142600425,
-    "modelo": "MT209-YA011"
-  },
-  {
-    "id_modelo": 142600426,
-    "modelo": 2330
-  },
-  {
-    "id_modelo": 142597990,
-    "modelo": "FM01026"
-  },
-  {
-    "id_modelo": 142598007,
-    "modelo": "FM376/19"
-  },
-  {
-    "id_modelo": 142598013,
-    "modelo": "FM410/10"
-  },
-  {
-    "id_modelo": 142598027,
-    "modelo": "FM531/04RACE"
-  },
-  {
-    "id_modelo": 142598034,
-    "modelo": "FM623/04"
-  },
-  {
-    "id_modelo": 142600014,
-    "modelo": 1108011
-  },
-  {
-    "id_modelo": 142600015,
-    "modelo": "302-291"
-  },
-  {
-    "id_modelo": 142600016,
-    "modelo": "240-011"
-  },
-  {
-    "id_modelo": 142600017,
-    "modelo": "222-020"
-  },
-  {
-    "id_modelo": 142600018,
-    "modelo": "202-912"
-  },
-  {
-    "id_modelo": 142600019,
-    "modelo": "161-297"
-  },
-  {
-    "id_modelo": 142600020,
-    "modelo": "254-296"
-  },
-  {
-    "id_modelo": 142600021,
-    "modelo": "204-297"
-  },
-  {
-    "id_modelo": 142600022,
-    "modelo": "207-063"
-  },
-  {
-    "id_modelo": 142600023,
-    "modelo": "255-871"
-  },
-  {
-    "id_modelo": 142600024,
-    "modelo": "208-030"
-  },
-  {
-    "id_modelo": 142600026,
-    "modelo": "255-977"
-  },
-  {
-    "id_modelo": 142600027,
-    "modelo": "ZC-161-023"
-  },
-  {
-    "id_modelo": 142598867,
-    "modelo": "MBLSC030"
-  },
-  {
-    "id_modelo": 142598869,
-    "modelo": "MBLSC103"
-  },
-  {
-    "id_modelo": 142598870,
-    "modelo": "MBLSC119"
-  },
-  {
-    "id_modelo": 142598871,
-    "modelo": "MBLSC127"
-  },
-  {
-    "id_modelo": 142598872,
-    "modelo": "MBLSC123"
-  },
-  {
-    "id_modelo": 142598873,
-    "modelo": "MBLSC193"
-  },
-  {
-    "id_modelo": 142598875,
-    "modelo": "MBLSC199"
-  },
-  {
-    "id_modelo": 142598876,
-    "modelo": "MBLSC139"
+    "id_modelo": 142422990,
+    "modelo": "525ZVX3-G/G 110 MLJ"
   },
   {
     "id_modelo": 142598187,
     "modelo": "415RR-G/G SPJ"
   },
   {
-    "id_modelo": 142598189,
-    "modelo": "415RR-G/G 120 SPJ"
-  },
-  {
-    "id_modelo": 142598193,
-    "modelo": "420SRO-STL/STL SKJ"
-  },
-  {
-    "id_modelo": 142598194,
-    "modelo": "420SRO-STL 84 SKJ"
-  },
-  {
     "id_modelo": 142598195,
     "modelo": "420SH-STL/STL SPJ"
-  },
-  {
-    "id_modelo": 142598197,
-    "modelo": "420SH-STL 138 SPJ"
   },
   {
     "id_modelo": 142598198,
@@ -6652,16 +3696,12 @@
     "modelo": "420SR-STL/STL SPJ"
   },
   {
-    "id_modelo": 142598200,
-    "modelo": "428DEH-STL 144 SPJ"
-  },
-  {
     "id_modelo": 142598203,
     "modelo": "428SR-STL/STL SPJ"
   },
   {
     "id_modelo": 142598205,
-    "modelo": "428SR-STL 84 SPJ"
+    "modelo": "428SR-STL 108 SPJ"
   },
   {
     "id_modelo": 142598207,
@@ -6669,11 +3709,11 @@
   },
   {
     "id_modelo": 142598209,
-    "modelo": "520H-STL 84 SPJ"
+    "modelo": "520H-STL 90 SPJ"
   },
   {
     "id_modelo": 142598211,
-    "modelo": "428ZVX-STL 92 SKJ"
+    "modelo": "428ZVX-STL 116 SKJ"
   },
   {
     "id_modelo": 142598212,
@@ -6684,32 +3724,16 @@
     "modelo": "520MRD7-G/G 94 SPJ"
   },
   {
-    "id_modelo": 142598214,
-    "modelo": "520M3-G/G 100 SPJ"
-  },
-  {
     "id_modelo": 142598221,
-    "modelo": "520SRX2-G/G 92 MLJ"
-  },
-  {
-    "id_modelo": 142598224,
-    "modelo": "520SRX2-STL 132 MLJ"
+    "modelo": "520SRX2-G/G 98 MLJ"
   },
   {
     "id_modelo": 142598226,
     "modelo": "520SRX2-G/G 96 SLJ"
   },
   {
-    "id_modelo": 142598229,
-    "modelo": "520SRX2-STL 126 SLJ"
-  },
-  {
     "id_modelo": 142598231,
     "modelo": "525H-STL/STL SPJ"
-  },
-  {
-    "id_modelo": 142598232,
-    "modelo": "525H-STL 102 SPJ"
   },
   {
     "id_modelo": 142598238,
@@ -6724,10 +3748,6 @@
     "modelo": "525SRX2-STL MLJ"
   },
   {
-    "id_modelo": 142598241,
-    "modelo": "525SRX2-STL 102 MLJ"
-  },
-  {
     "id_modelo": 142598242,
     "modelo": "525ZVX3-G/G MLJ"
   },
@@ -6736,296 +3756,136 @@
     "modelo": "525ZVX3-STL/STL MLJ"
   },
   {
-    "id_modelo": 142598246,
-    "modelo": "525ZVX3-G/G 102 MLJ"
-  },
-  {
     "id_modelo": 142598247,
     "modelo": "530-STL/STL SPJ"
   },
   {
     "id_modelo": 142598250,
-    "modelo": "530-STL 94 SPJ"
+    "modelo": "530-STL 124 SPJ"
   },
   {
     "id_modelo": 142598252,
     "modelo": "530SRX2-G/G MLJ"
   },
   {
-    "id_modelo": 142598256,
-    "modelo": "530SRX2-G/G 130 MLJ"
-  },
-  {
     "id_modelo": 142598258,
     "modelo": "530SRX2-STL MLJ"
-  },
-  {
-    "id_modelo": 142598259,
-    "modelo": "530ZVX3-STL 146 MLJ"
-  },
-  {
-    "id_modelo": 142598260,
-    "modelo": "530SRX2-STL 124 MLJ"
   },
   {
     "id_modelo": 142598266,
     "modelo": "530ZVX3-STL/STL MLJ"
   },
   {
-    "id_modelo": 142598077,
-    "modelo": "1229ATV1"
+    "id_modelo": 142409848,
+    "modelo": 1023837
   },
   {
-    "id_modelo": 142598083,
-    "modelo": "1244X59"
+    "id_modelo": 142409868,
+    "modelo": 1023860
   },
   {
-    "id_modelo": 142598090,
-    "modelo": "1280A3+"
+    "id_modelo": 142409906,
+    "modelo": 1023909
   },
   {
-    "id_modelo": 142598093,
-    "modelo": "1280XBK5"
+    "id_modelo": 142409909,
+    "modelo": 1023912
   },
   {
-    "id_modelo": 142598094,
-    "modelo": "1279XBK5"
+    "id_modelo": 142409972,
+    "modelo": 1023996
   },
   {
-    "id_modelo": 142598096,
-    "modelo": "1282C60"
+    "id_modelo": 142410033,
+    "modelo": 1024065
   },
   {
-    "id_modelo": 142598128,
-    "modelo": "4067VX"
+    "id_modelo": 142410039,
+    "modelo": 1024073
   },
   {
-    "id_modelo": 142598129,
-    "modelo": "4068RDX"
+    "id_modelo": 142410085,
+    "modelo": 1024124
   },
   {
-    "id_modelo": 142598500,
-    "modelo": 13981205
+    "id_modelo": 142410117,
+    "modelo": 1024154
   },
   {
-    "id_modelo": 142598502,
-    "modelo": 13983505
+    "id_modelo": 142410163,
+    "modelo": 1024215
   },
   {
-    "id_modelo": 142598507,
-    "modelo": 13983205
+    "id_modelo": 142410166,
+    "modelo": 1024222
   },
   {
-    "id_modelo": 142598509,
-    "modelo": 13983215
+    "id_modelo": 142410202,
+    "modelo": 1024260
   },
   {
-    "id_modelo": 142598511,
-    "modelo": 13983310
+    "id_modelo": 142410216,
+    "modelo": 1024277
   },
   {
-    "id_modelo": 142598518,
-    "modelo": 13001496
+    "id_modelo": 142410245,
+    "modelo": 1024315
   },
   {
-    "id_modelo": 142598519,
-    "modelo": 13986005
+    "id_modelo": 142410426,
+    "modelo": 1024526
   },
   {
-    "id_modelo": 142598525,
-    "modelo": 13981255
+    "id_modelo": 142410466,
+    "modelo": 1024589
   },
   {
-    "id_modelo": 142598526,
-    "modelo": 23000255
+    "id_modelo": 142410534,
+    "modelo": 1024682
   },
   {
-    "id_modelo": 142598527,
-    "modelo": 13000091
+    "id_modelo": 142410542,
+    "modelo": 1024689
   },
   {
-    "id_modelo": 142598528,
-    "modelo": 13980161
+    "id_modelo": 142410569,
+    "modelo": 1024717
   },
   {
-    "id_modelo": 142598529,
-    "modelo": 13983210
+    "id_modelo": 142410587,
+    "modelo": 1024749
   },
   {
-    "id_modelo": 142598530,
-    "modelo": 13983900
+    "id_modelo": 142410606,
+    "modelo": 1024773
   },
   {
-    "id_modelo": 142598532,
-    "modelo": 13986008
+    "id_modelo": 142410647,
+    "modelo": 1024823
   },
   {
-    "id_modelo": 142598534,
-    "modelo": 13001485
+    "id_modelo": 142410688,
+    "modelo": 1024866
   },
   {
-    "id_modelo": 142598535,
-    "modelo": 23000220
+    "id_modelo": 142410731,
+    "modelo": 1044685
   },
   {
-    "id_modelo": 142598537,
-    "modelo": 13000062
+    "id_modelo": 142410760,
+    "modelo": 1090479
   },
   {
-    "id_modelo": 142598538,
-    "modelo": 13986000
+    "id_modelo": 142410792,
+    "modelo": 1109187
   },
   {
-    "id_modelo": 142598539,
-    "modelo": 23000140
+    "id_modelo": 142410961,
+    "modelo": 1119996
   },
   {
-    "id_modelo": 142598540,
-    "modelo": 13980083
-  },
-  {
-    "id_modelo": 142598541,
-    "modelo": 23000615
-  },
-  {
-    "id_modelo": 142598542,
-    "modelo": 13981260
-  },
-  {
-    "id_modelo": 142598543,
-    "modelo": 13983300
-  },
-  {
-    "id_modelo": 142598544,
-    "modelo": 13980052
-  },
-  {
-    "id_modelo": 142598546,
-    "modelo": 13986003
-  },
-  {
-    "id_modelo": 142598547,
-    "modelo": 13980030
-  },
-  {
-    "id_modelo": 142598549,
-    "modelo": 13986004
-  },
-  {
-    "id_modelo": 142598550,
-    "modelo": 13025006
-  },
-  {
-    "id_modelo": 142598553,
-    "modelo": 13983225
-  },
-  {
-    "id_modelo": 142598554,
-    "modelo": 13981300
-  },
-  {
-    "id_modelo": 142598555,
-    "modelo": 13025011
-  },
-  {
-    "id_modelo": 142598556,
-    "modelo": 13025016
-  },
-  {
-    "id_modelo": 142598557,
-    "modelo": 13983315
-  },
-  {
-    "id_modelo": 142598558,
-    "modelo": 13986006
-  },
-  {
-    "id_modelo": 142598559,
-    "modelo": 13980024
-  },
-  {
-    "id_modelo": 142598561,
-    "modelo": 13980160
-  },
-  {
-    "id_modelo": 142598565,
-    "modelo": 13980027
-  },
-  {
-    "id_modelo": 142598566,
-    "modelo": 13986007
-  },
-  {
-    "id_modelo": 142598569,
-    "modelo": 13981221
-  },
-  {
-    "id_modelo": 142598577,
-    "modelo": 13980073
-  },
-  {
-    "id_modelo": 142598578,
-    "modelo": 13980213
-  },
-  {
-    "id_modelo": 142598579,
-    "modelo": 13980079
-  },
-  {
-    "id_modelo": 142598580,
-    "modelo": 23000270
-  },
-  {
-    "id_modelo": 142598583,
-    "modelo": 13025046
-  },
-  {
-    "id_modelo": 142598585,
-    "modelo": 13025031
-  },
-  {
-    "id_modelo": 142598586,
-    "modelo": 90072883
-  },
-  {
-    "id_modelo": 142598587,
-    "modelo": 13000061
-  },
-  {
-    "id_modelo": 142598591,
-    "modelo": 13980029
-  },
-  {
-    "id_modelo": 142598593,
-    "modelo": 13980500
-  },
-  {
-    "id_modelo": 142598594,
-    "modelo": 13025036
-  },
-  {
-    "id_modelo": 142598596,
-    "modelo": 13980074
-  },
-  {
-    "id_modelo": 142598598,
-    "modelo": 13025041
-  },
-  {
-    "id_modelo": 142598611,
-    "modelo": 13025026
-  },
-  {
-    "id_modelo": 142598896,
-    "modelo": 1117
-  },
-  {
-    "id_modelo": 142598982,
-    "modelo": 1730
-  },
-  {
-    "id_modelo": 142598983,
-    "modelo": "1736X"
+    "id_modelo": 142411074,
+    "modelo": 1120113
   },
   {
     "id_modelo": 142599012,
@@ -7034,13 +3894,5 @@
   {
     "id_modelo": 142599021,
     "modelo": 505
-  },
-  {
-    "id_modelo": 142599057,
-    "modelo": "KITTMAX 2012"
-  },
-  {
-    "id_modelo": 142599608,
-    "modelo": "RAP-462NPT"
   }
 ]

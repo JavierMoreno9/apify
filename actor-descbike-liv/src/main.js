@@ -54,13 +54,13 @@ async function start() {
 
       // Esperar a que aparezcan resultados
       await page.waitForSelector(
-        'div.ns-product-grid a.product-link',
+        'div.article a',
         { timeout: 15000 }
       );
 
       // Obtener href del primer product link
       const firstProductLink = await page.$eval(
-        'div.ns-product-grid a.product-link',
+        'div.article a',
         el => el.href
       );
 
@@ -71,20 +71,27 @@ async function start() {
       await page.waitForSelector('img.lazyloaded', { timeout: 15000 }).catch(() => {});
 
     const allMainImages = await page.$$eval(
-      'div.product-media-wrapper img',
-      imgs => imgs.map(img => img.src).filter(Boolean)
+      '#images button.productzoom',
+      buttons => buttons
+        .map(btn => btn.getAttribute('href'))
+        .filter(Boolean)
     );
 
+    const description = await page.$$eval(
+      'ul.specifications li',
+      els => els.map(el => el.innerText.trim()).join('|')
+    ).catch(() => '');
+
       // Datos del producto
-  const title = await page.$eval('h1.product__title', el => el.innerText.trim()).catch(() => '');
-  const price = await page.$eval('div.click-on-stars', el => el.innerText.trim()).catch(() => '');
-  const description = await page.$$eval('details', els => els[0] ? els[0].innerHTML.trim() : '').catch(() => '');
+  const title = await page.$eval('h1', el => el.innerText.trim()).catch(() => '');
+  const price = await page.$eval('div.price', el => el.innerText.trim()).catch(() => '');
+  /*const description = await page.$$eval('details', els => els[0] ? els[0].innerHTML.trim() : '').catch(() => '');
   const desc = await page.$$eval('details', els => els[1] ? els[1].innerHTML.trim() : '').catch(() => '');
   const desc2 = await page.$$eval('details', els => els[2] ? els[2].innerHTML.trim() : '').catch(() => '');
   const desc3 = await page.$$eval('details', els => els[3] ? els[3].innerHTML.trim() : '').catch(() => '');
   const desc4 = await page.$$eval('details', els => els[4] ? els[4].innerHTML.trim() : '').catch(() => '');
   const desc5 = await page.$$eval('details', els => els[5] ? els[5].innerHTML.trim() : '').catch(() => '');
-  const desc6 = await page.$$eval('details', els => els[6] ? els[6].innerHTML.trim() : '').catch(() => '');
+  const desc6 = await page.$$eval('details', els => els[6] ? els[6].innerHTML.trim() : '').catch(() => '');*/
   // Ahora construimos el objeto
   const data = {
     id_modelo,
@@ -95,12 +102,12 @@ async function start() {
     mainImage: allMainImages[0] || '',
     allMainImages, // <-- todas las imágenes lazyloaded
     description,
-    desc,
+    /*desc,
     desc2,
     desc3,
     desc4,
     desc5,
-    desc6
+    desc6*/
   };
 
       // Guardar en un archivo separado por id_modelo
@@ -115,7 +122,7 @@ async function start() {
 
   // Generar URLs a partir del JSON cargado
   const startUrls = queries.map(producto => ({
-    url: `https://eu.oneill.com/search?q=${encodeURIComponent(producto.modelo)}`,
+    url: `https://www.liv-cycling.com/es/search?keyword=${encodeURIComponent(producto.modelo)}`,
     userData: { id_modelo: producto.id_modelo, modelo: producto.modelo },
   }));
 
